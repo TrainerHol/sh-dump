@@ -1,0 +1,1514 @@
+[
+  {
+    "id": 1,
+    "name": "Colossus Totem",
+    "title": "Temporal Prisoner",
+    "description": "Awarded for completing the temporal cage.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249127248871559168/TemporalCageBadge-export.png?ex=66662be7&is=6664da67&hm=2ad88b6c83d49dd249c1a750deac8a7c0a8e9e011f8165e5e84fee4f6446bda0&",
+    "createdAt": "2024-06-08 22:25:43.899 +00:00",
+    "updatedAt": "2024-06-08 22:25:43.899 +00:00"
+  },
+  {
+    "id": 2,
+    "name": "Heart Lollipop Sticker",
+    "title": "Magical Gril",
+    "description": "A reward for clearing the Ghoul Pink Fortress",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249228203902373971/HeartLollipop.png?ex=666689ed&is=6665386d&hm=108744ebdba3aa2f9ace4ef6b820c91089c6e03803f60c3a2ef4b824c8b2677f&",
+    "createdAt": "2024-06-09 05:04:41.707 +00:00",
+    "updatedAt": "2024-06-09 05:06:53.564 +00:00"
+  },
+  {
+    "id": 3,
+    "name": "Heretic's Dagger",
+    "title": "Green Bird Heretic",
+    "description": "Awarded for completing the puzzles associated with the Fallen Congregation, the former domain of a cult that worshiped Emerald Ares.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249247970600157184/removal.ai_97a363c1-5bbb-4026-b970-833d40e5bbce-hol_medal_with_heretic_dagger_icon_bba2b03c-47d1-40ef-a214-eaf850028a57_export.png?ex=66669c56&is=66654ad6&hm=2db03901826667410e641c21f85da3b889b262c9bac5d6a1c7a60ac2b923b52a&",
+    "createdAt": "2024-06-09 06:25:26.230 +00:00",
+    "updatedAt": "2024-06-09 06:25:26.230 +00:00"
+  },
+  {
+    "id": 4,
+    "name": "Otter Medallion",
+    "title": "Otterly Amazing",
+    "description": "Very mysterious.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249886778580533248/otterbadge.png?ex=6668ef45&is=66679dc5&hm=9ce2f2e0c42f4d63f15c6c5b8827c9c21ca9896ee2e71fe2bcc5a62d40ce9719&",
+    "createdAt": "2024-06-09 10:34:03.155 +00:00",
+    "updatedAt": "2024-06-11 00:43:50.034 +00:00"
+  },
+  {
+    "id": 5,
+    "name": "Recursive Tonbriney",
+    "title": "Reclursive Berry",
+    "description": "Awarded for clearing Tonbriney's 7k Climbing Frame.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249455092684296192/Recursive_Tonbriney.png?ex=66675d3b&is=66660bbb&hm=cedac3cd8df7e9367c3395a1d52b63b5b5ad54476a4600b98945676155901244&",
+    "createdAt": "2024-06-09 20:08:27.978 +00:00",
+    "updatedAt": "2024-06-09 20:08:27.978 +00:00"
+  },
+  {
+    "id": 6,
+    "name": "Dead Moon",
+    "title": "Callisto Brain",
+    "description": "Awarded for clearing Callisto Complex.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249455810719907981/Callisto_Brain.png?ex=66675de7&is=66660c67&hm=4467742e10b55a8b73725787f265b8660075947c564f06d48d87de6d2908782e&",
+    "createdAt": "2024-06-09 20:11:19.229 +00:00",
+    "updatedAt": "2024-06-09 20:11:19.229 +00:00"
+  },
+  {
+    "id": 7,
+    "name": "Dark Briney",
+    "title": "The Darkest Edgelord",
+    "description": "Awarded for clearing Tzarog Dreadhold.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249629910536814602/Dark_Briney.png?ex=6668000b&is=6666ae8b&hm=59a7b953e1b31c6d23e04fa800df7fa7d4bda75e71d2f546803ace3f1b8d7b87&",
+    "createdAt": "2024-06-09 20:12:20.375 +00:00",
+    "updatedAt": "2024-06-10 07:43:07.778 +00:00"
+  },
+  {
+    "id": 8,
+    "name": "Jumping Berry",
+    "title": "Jumperry of Light",
+    "description": "Awarded for clearing Tonberry jumping adventures: Morbro's Dojo, Dreadhriman's Tower, Tonbriney's Lament.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249456847195476038/Jumping_Briney.png?ex=66675ede&is=66660d5e&hm=d269965d01a5b5953aa84455bdb037988a09c88780ce98748b971e0c9cd4e95c&",
+    "createdAt": "2024-06-09 20:15:26.331 +00:00",
+    "updatedAt": "2024-06-09 20:15:26.331 +00:00"
+  },
+  {
+    "id": 9,
+    "name": "Dreaming Overwall",
+    "title": "Labyrinthos I",
+    "description": "Awarded for clearing Darkly Dreaming Briney, Rusted Frame, Ovoid Over(w)all.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249457131288137768/Dreaming_Overwall.png?ex=66675f21&is=66660da1&hm=a4618085f0050c82523d702ef3890b573be684bd4a767064e755e811aa941d9f&",
+    "createdAt": "2024-06-09 20:16:33.976 +00:00",
+    "updatedAt": "2024-06-09 20:48:17.487 +00:00"
+  },
+  {
+    "id": 10,
+    "name": "Berry Labyrinth",
+    "title": "Labyrinthos II",
+    "description": "Awarded for clearing Catharsis by Mango, Amalgram, Edgeworth.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249457369742704760/Berry_Labyrinth.png?ex=66675f5a&is=66660dda&hm=df7b1f5aa80506c4877b60280b57263d273962d987ee6b9b968dff6343967ffe&",
+    "createdAt": "2024-06-09 20:17:30.844 +00:00",
+    "updatedAt": "2024-06-09 20:17:30.844 +00:00"
+  },
+  {
+    "id": 11,
+    "name": "Mango & Pap",
+    "title": "Fruits of Love",
+    "description": "Awarded for clearing The Missing Papaya, Papaya?!, Catharsis by Mango",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249457713201680494/Mango__Pap.png?ex=66675fac&is=66660e2c&hm=2f5f0d7ba86950fa25d562a034703cfa40b873fa1d40f8725071cde037863e1b&",
+    "createdAt": "2024-06-09 20:18:52.746 +00:00",
+    "updatedAt": "2024-06-09 20:18:52.746 +00:00"
+  },
+  {
+    "id": 12,
+    "name": "Is This a Puzzle Piece?",
+    "title": "Puzzled Out",
+    "description": "Awarded for clearing Dohn Mheg, Dogwood's Dogma, Lysiseus",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249464229245882469/Is_this_a_Puzzle_Piece.png?ex=666765be&is=6666143e&hm=f1472fdf2d43504481b9d24ef31a0ee031c8df187f042a634236bd79f3554101&",
+    "createdAt": "2024-06-09 20:44:46.290 +00:00",
+    "updatedAt": "2024-06-09 20:44:46.290 +00:00"
+  },
+  {
+    "id": 13,
+    "name": "Time Machine",
+    "title": "Vexing Enigma",
+    "description": "Awarded for clearing the Time Machine.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249464605525413929/timemachine.png?ex=66676617&is=66661497&hm=78f1ed87e4e45ed469a160899ffa85e99d728df9bfe6f8143617018ea61b4909&",
+    "createdAt": "2024-06-09 20:46:16.052 +00:00",
+    "updatedAt": "2024-06-09 20:46:16.052 +00:00"
+  },
+  {
+    "id": 14,
+    "name": "Odder-berry",
+    "title": "Labyrinthos III",
+    "description": "Awarded for clearing Cork Brown, Strawberry Palace.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249465404221423706/Odder_berry.png?ex=666766d6&is=66661556&hm=eaebf3822b068138433510d49199bad265573fb2fe873909328dc01d49a34fe0&",
+    "createdAt": "2024-06-09 20:49:26.403 +00:00",
+    "updatedAt": "2024-06-09 20:49:26.403 +00:00"
+  },
+  {
+    "id": 15,
+    "name": "Saintly Briney",
+    "title": "Tonbriney's Guardian Angel",
+    "description": "Awarded for clearing Tonbriney in the Haunted Manor, Shady Sanatorium.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249465676473700402/Saintly_Briney.png?ex=66676717&is=66661597&hm=de006556bc2a7f81bb328015ebef97fc3dd2a8acb90ebefe8b3da3bc8972ddb6&",
+    "createdAt": "2024-06-09 20:50:31.379 +00:00",
+    "updatedAt": "2024-06-09 20:50:31.379 +00:00"
+  },
+  {
+    "id": 16,
+    "name": "LOONA f(x)",
+    "title": "Loonatic μ",
+    "description": "Award for clearing Loonaverse and The First Wisdom Tooth",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249524892924383284/poopie.png?ex=66679e3d&is=66664cbd&hm=34a6d386e1b74f02776e6a80a4eacff7cf0325448a10344ede31f6f347fd26f3&",
+    "createdAt": "2024-06-10 00:45:49.636 +00:00",
+    "updatedAt": "2024-06-10 00:45:49.636 +00:00"
+  },
+  {
+    "id": 17,
+    "name": "Super Mario",
+    "title": "Headbanger Hangover",
+    "description": "Completion of the mario gauntlet",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249550579827478639/mario_coin-removebg-preview.png?ex=6667b629&is=666664a9&hm=5cb51742b917fb7b5605fd7f752bbe6edd1b07c4872063e31731c8b5fba63a92&",
+    "createdAt": "2024-06-10 02:27:53.865 +00:00",
+    "updatedAt": "2024-06-10 02:27:53.865 +00:00"
+  },
+  {
+    "id": 18,
+    "name": "Vase",
+    "title": "Vase",
+    "description": "Vase",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249559446896644096/Vase.png?ex=6667be6b&is=66666ceb&hm=7e493a3228514722e5e0570a7abbf8b3b21034f2fbfe49995851c6cd25688f9a&",
+    "createdAt": "2024-06-10 03:03:07.931 +00:00",
+    "updatedAt": "2024-06-10 03:03:07.931 +00:00"
+  },
+  {
+    "id": 19,
+    "name": "Archie Head",
+    "title": "Ow my head",
+    "description": "Awarded for bumping my head in Archie Bunker and Mesa Amaurot",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249721899328602163/ow_my_head.png?ex=666855b7&is=66670437&hm=6778154e71091f73f06306b15d97db886ebda388995f5ae36f028db8afc32add&",
+    "createdAt": "2024-06-10 04:02:14.785 +00:00",
+    "updatedAt": "2024-06-10 13:48:39.627 +00:00"
+  },
+  {
+    "id": 20,
+    "name": "Kente's Sandwich",
+    "title": "I touched Kente's Sandwich",
+    "description": "Awarded for touching Kente's Sandwich",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249722301809954848/Kentes_Sandwich.png?ex=66685617&is=66670497&hm=75d4aa37dc734029977043f9720cdea68a173f7631307357877868b58769ef1e&",
+    "createdAt": "2024-06-10 04:04:50.516 +00:00",
+    "updatedAt": "2024-06-10 13:50:15.571 +00:00"
+  },
+  {
+    "id": 21,
+    "name": "Refinery Badge",
+    "title": "Lightly Salted",
+    "description": "Awarded for completing Salt Refinery",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249575429497684068/Salt_Refinery.png?ex=6667cd4e&is=66667bce&hm=6154495295643899d874ce78f476a432105a7e837e1ca0655541123fa9a8efeb&",
+    "createdAt": "2024-06-10 04:06:38.465 +00:00",
+    "updatedAt": "2024-06-10 04:06:38.465 +00:00"
+  },
+  {
+    "id": 22,
+    "name": "Divine Cake",
+    "title": "Final Dessert",
+    "description": "Awarded for completing both Cakewalk puzzles",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249721743271133216/Cakewalk_I_II.png?ex=66685592&is=66670412&hm=bf08de67d041942ef851c7a58fc4b1bcd1d8e94bb03feffde64134d4b4a9f1d3&",
+    "createdAt": "2024-06-10 13:48:02.462 +00:00",
+    "updatedAt": "2024-06-10 13:48:02.462 +00:00"
+  },
+  {
+    "id": 24,
+    "name": "Artistic Cupcake",
+    "title": "Elite Jumping Pro",
+    "description": "Awarded for completing the most difficult Jump Puzzle in the entire game.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249742047070654464/Artistic_Cupcake.png?ex=6668687b&is=666716fb&hm=09f3ac7d07c9cd22991ea03385355d39ee13b6dbea4290f22e2ae747af909309&",
+    "createdAt": "2024-06-10 13:52:36.462 +00:00",
+    "updatedAt": "2024-06-10 15:08:43.210 +00:00"
+  },
+  {
+    "id": 26,
+    "name": "Yuri Collector",
+    "title": "Yuri Enthusiast",
+    "description": "Conquered Space Camp's extensive yuri collection.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249749776048718016/101820554.png?ex=66686fad&is=66671e2d&hm=9fb703083b81b54ad8c489c57ad80c3496b6a9a86b47a132119f1fea812e9e4a&",
+    "createdAt": "2024-06-10 15:39:25.967 +00:00",
+    "updatedAt": "2024-06-10 15:39:25.967 +00:00"
+  },
+  {
+    "id": 27,
+    "name": "Yuri Detector",
+    "title": "Yuri Voyager",
+    "description": "Dara thought she could hide more GL in Japan. She was wrong.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249759307965140992/matting_image_2024-05-17_182449072.png?ex=6668788e&is=6667270e&hm=0e737baab93a477472384f7ce0d95586245d6d8a4b53bb904f4dd60703c47ded&",
+    "createdAt": "2024-06-10 16:17:18.557 +00:00",
+    "updatedAt": "2024-06-10 16:17:18.557 +00:00"
+  },
+  {
+    "id": 28,
+    "name": "Amaurot DMV",
+    "title": "Infinitely Prolonged",
+    "description": "Awarded for escaping the Waiting Room.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249759387250065531/waitingroombadge.png?ex=666878a1&is=66672721&hm=8aef17643d536c4c161a97848b7bff043de823fef07b18e9511abc342dad0ed5&",
+    "createdAt": "2024-06-10 16:17:37.508 +00:00",
+    "updatedAt": "2024-06-10 16:17:37.508 +00:00"
+  },
+  {
+    "id": 29,
+    "name": "Temple Tumbler",
+    "title": "Temple Tumbler",
+    "description": "Plundered all but the most dangerous temples at Space Camp",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249762251129229423/temple_1.png?ex=66687b4c&is=666729cc&hm=5e27aeb2b3592490719853905b7a2e33be7c520dacc71d89e672819f6d33031d&",
+    "createdAt": "2024-06-10 16:29:00.244 +00:00",
+    "updatedAt": "2024-06-10 16:29:00.244 +00:00"
+  },
+  {
+    "id": 30,
+    "name": "Temple Conqueror",
+    "title": "Temple Conqueror",
+    "description": "Conquered every temple at Space Camp",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249762587680182383/temple_2.png?ex=66687b9c&is=66672a1c&hm=a66880a98dff40c9db1e4dba4c35f33ac919f4043e4af217149c70ad80418c98&",
+    "createdAt": "2024-06-10 16:30:20.480 +00:00",
+    "updatedAt": "2024-06-10 16:30:20.480 +00:00"
+  },
+  {
+    "id": 31,
+    "name": "Space Cadet",
+    "title": "Space Cadet",
+    "description": "Successfully completed the Gravity Training module at Space Camp.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249772969702461450/mikugt2.jpg?ex=66688547&is=666733c7&hm=44b799d0f3b6e4b03059af30ce3ca210c44a2a4d48f89ad915082209e0c3f896&",
+    "createdAt": "2024-06-10 17:11:36.181 +00:00",
+    "updatedAt": "2024-06-10 17:11:36.181 +00:00"
+  },
+  {
+    "id": 32,
+    "name": "The Midnight Swan",
+    "title": "The Midnight Swan",
+    "description": "Awarded for clearing The Midnight Swan.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249787804280557630/The_Midnight_Swan.png?ex=66689318&is=66674198&hm=1b40519d9995c6c21b560def8c16146ad037ff11f21f5ceff55cc3937922047a&",
+    "createdAt": "2024-06-10 18:10:32.580 +00:00",
+    "updatedAt": "2024-06-10 18:10:32.580 +00:00"
+  },
+  {
+    "id": 33,
+    "name": "Green Onion",
+    "title": "Layered",
+    "description": "Awarded for reaching the top of the Green Onion.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249790380308697182/Green_Onion_Badge.png?ex=6668957e&is=666743fe&hm=1da2a615436685dc899ede623a3533c2fcec497758c2b42fed99018bcd819324&",
+    "createdAt": "2024-06-10 18:20:46.798 +00:00",
+    "updatedAt": "2024-06-10 18:20:46.798 +00:00"
+  },
+  {
+    "id": 34,
+    "name": "Pipe Trinity",
+    "title": "Pipeteer",
+    "description": "Awarded for clearing all three of the puzzles \"Pipe Dream\", \"Pipe Bomb\" and \"Pipe Research\".",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249795171252699156/Pipe_Badge.png?ex=666899f4&is=66674874&hm=f1a14db36d1ac78f37081b5f1a61d0bde71aad1132f8ae53fd88852094297bec&",
+    "createdAt": "2024-06-10 18:39:49.125 +00:00",
+    "updatedAt": "2024-06-10 18:39:49.125 +00:00"
+  },
+  {
+    "id": 35,
+    "name": "Pipe Nightmare",
+    "title": "Pipe God",
+    "description": "Awarded for reaching the very top of the god forsaken Pipe Nightmare. You have truly embraced the pipes to have come this far.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249795398772592731/Pipe_Badge_Golden.png?ex=66689a2b&is=666748ab&hm=fb883ecab809dee5bcb1383906ee938d79fe07a074167c88e1066f56573bad3d&",
+    "createdAt": "2024-06-10 18:40:43.266 +00:00",
+    "updatedAt": "2024-06-10 18:40:43.266 +00:00"
+  },
+  {
+    "id": 36,
+    "name": "Catwalk",
+    "title": "Walk the Cat",
+    "description": "Awarded for completing the Catwalk puzzle.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251483029780824094/catwalk-export.png?ex=666ebde5&is=666d6c65&hm=a78422a9ce22d3358ab3efc8a56733835eee5423ffbde452e4e226d61c4d72a4&",
+    "createdAt": "2024-06-10 19:00:53.963 +00:00",
+    "updatedAt": "2024-06-15 10:26:45.933 +00:00"
+  },
+  {
+    "id": 37,
+    "name": "Blue Co-Op",
+    "title": "Blue Friend",
+    "description": "Awarded for bringing a willing or unwilling friend with you to the \"Blue Co-Op\" and reach the end.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249802500266004611/Blue_Mage_Co-Op_Badge.png?ex=6668a0c8&is=66674f48&hm=7dc81480693224fa527fcafa94407832c28df93fe8bc02110f4ad9dbd9456419&",
+    "createdAt": "2024-06-10 19:08:56.411 +00:00",
+    "updatedAt": "2024-06-10 19:08:56.411 +00:00"
+  },
+  {
+    "id": 38,
+    "name": "52 Games in 1",
+    "title": "Cheetahmen",
+    "description": "Awarded for completing Action 52.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250717489864900628/Cheetahmen.png?ex=666bf4ee&is=666aa36e&hm=038be63df7314b5855ea6fe04fda10239abd01f60ba7103fad1b01df2dbfd9a8&",
+    "createdAt": "2024-06-10 20:41:49.144 +00:00",
+    "updatedAt": "2024-06-13 07:44:46.896 +00:00"
+  },
+  {
+    "id": 39,
+    "name": "World's End Crown",
+    "title": "Empty Ruler",
+    "description": "Awarded for completing Puzzle 0.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249826106438320198/Sad_Crown.png?ex=6668b6c4&is=66676544&hm=7496c3f8eb8acb28f576e476ef5526f9fd062da6c646cb83337d9a2d993922c3&",
+    "createdAt": "2024-06-10 20:42:44.525 +00:00",
+    "updatedAt": "2024-06-10 20:42:44.525 +00:00"
+  },
+  {
+    "id": 40,
+    "name": "Emerald Flock",
+    "title": "Of the Flock",
+    "description": "Awarded for completing all of the 1-4 Star Emerald Ares puzzles made before Dawntrail.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249826366170599424/greenbirb.png?ex=6668b702&is=66676582&hm=76c8ea954352c31b239bab75bb0043de0f1f2dd7e3c067ddff3c3d85e118f45f&",
+    "createdAt": "2024-06-10 20:43:46.452 +00:00",
+    "updatedAt": "2024-06-10 20:43:46.452 +00:00"
+  },
+  {
+    "id": 41,
+    "name": "Starry Comet",
+    "title": "Passing Comet",
+    "description": "Awarded for completing several of the original puzzles at the Yojimbo FC hub and apartment hub.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249829200664461353/Starry_Comet.png?ex=6668b9a6&is=66676826&hm=c8c056c404f8181b446c2ba48818ae44c7ee64ac77966fc017d5ed9a5437a559&",
+    "createdAt": "2024-06-10 20:55:02.284 +00:00",
+    "updatedAt": "2024-06-10 20:55:02.284 +00:00"
+  },
+  {
+    "id": 42,
+    "name": "Sharkfin Soup",
+    "title": "Seasoned Shark",
+    "description": "Awarded for completing Sharkfin Soup.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249842349190811788/Sharkfin_Soup.png?ex=6668c5e4&is=66677464&hm=56da5f80ec8b8ad26c33d5605a632801a8cec10a8c0733a658856d8db16b71d0&",
+    "createdAt": "2024-06-10 21:47:17.144 +00:00",
+    "updatedAt": "2024-06-10 21:47:17.144 +00:00"
+  },
+  {
+    "id": 43,
+    "name": "Bring Wife To Bed",
+    "title": "Happy Wife, Happy Life",
+    "description": "Awarded for completing Bring Wife To Bed.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249848479900110938/Bring_Wife_To_Bed.png?ex=6668cb9a&is=66677a1a&hm=693d07b86cfb39c435d9e492505ff6182f522d093e76db55cccca1db42fec4df&",
+    "createdAt": "2024-06-10 22:11:38.773 +00:00",
+    "updatedAt": "2024-06-10 22:11:38.773 +00:00"
+  },
+  {
+    "id": 44,
+    "name": "Ancient Flower",
+    "title": "Roemeo's God",
+    "description": "Awarded for completing Ancient Garden.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249854996695089253/Ancient_Flower.png?ex=6668d1ac&is=6667802c&hm=aea28e2899637b65de89448e8a4a5a15c5b16c21c7aae97dc9ebfd2122c615b8&",
+    "createdAt": "2024-06-10 22:37:32.589 +00:00",
+    "updatedAt": "2024-06-10 22:37:32.589 +00:00"
+  },
+  {
+    "id": 45,
+    "name": "Buff Bean",
+    "title": "Bulging Bean-ceps!",
+    "description": "Awarded for completing Blunderville Stages 1-3.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249859028129939597/47f.png?ex=6668d56d&is=666783ed&hm=3d1431a66ba2add99c0526a7d4bd2c1b3933c28235e065e1c778cc45bb0e6954&",
+    "createdAt": "2024-06-10 22:53:33.692 +00:00",
+    "updatedAt": "2024-06-10 22:53:33.692 +00:00"
+  },
+  {
+    "id": 46,
+    "name": "Hacked Cartridge",
+    "title": "Rare Game Enjoyer",
+    "description": "A badge awarded for playing a bunch of unlicensed hack job games at Galactic Circus.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249859561737687121/Hacked_Cartridge.png?ex=6668d5ec&is=6667846c&hm=4c776b546a1d89fffa8bef130bfb3995b1d99b370607fbffa486f44e722651a1&",
+    "createdAt": "2024-06-10 22:55:40.889 +00:00",
+    "updatedAt": "2024-06-10 22:55:40.889 +00:00"
+  },
+  {
+    "id": 47,
+    "name": "Dojo Medallion",
+    "title": "Phantom of the Dojo",
+    "description": "Found in the chest at the top of the Ghoul Fighting Dojo.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249882924237590568/dojobadge.png?ex=6668ebae&is=66679a2e&hm=7f946c32e95abb03f954884129a57fa3282017181da67cbf0c56b4d29cc0c267&",
+    "createdAt": "2024-06-11 00:28:31.010 +00:00",
+    "updatedAt": "2024-06-11 00:28:31.010 +00:00"
+  },
+  {
+    "id": 48,
+    "name": "Pokeball Medallion",
+    "title": "Trainer",
+    "description": "Awarded for clearing the Ghoul Pokemon League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249902197232111686/pokebadge.png?ex=6668fda1&is=6667ac21&hm=3efc75e8780a22ddc868b6826e7d52f4c0e79c48eeb0ccb2d5629f1f0d16bd3e&",
+    "createdAt": "2024-06-11 01:45:06.005 +00:00",
+    "updatedAt": "2024-06-11 01:45:06.005 +00:00"
+  },
+  {
+    "id": 49,
+    "name": "Megachurch Medallion",
+    "title": "Dreadwyrm Lamb",
+    "description": "Awarded for wandering the passages of the Ghoul Megachurch.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249965336657395712/removal.ai_c2a02875-ee01-4d66-a22e-97ad6bf3ea18-megachurchbadge.png?ex=6669386f&is=6667e6ef&hm=6cb4cadfdd959ad43faea1e533937e5930a5a59486ffccc0591a4411b2f39758&",
+    "createdAt": "2024-06-11 02:23:07.346 +00:00",
+    "updatedAt": "2024-06-11 05:55:59.605 +00:00"
+  },
+  {
+    "id": 50,
+    "name": "Cursed Window",
+    "title": "All-Seeing",
+    "description": "Awarded for completing Atra Astrum Ghoul.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1249960259485958255/Cursed_Window.png?ex=666933b5&is=6667e235&hm=8d37fcf988f44fad9af23f033573c34697367866294e1388e8984d6da7a1d861&",
+    "createdAt": "2024-06-11 05:35:49.153 +00:00",
+    "updatedAt": "2024-06-11 05:35:49.153 +00:00"
+  },
+  {
+    "id": 51,
+    "name": "Lumina",
+    "title": "Starseeker",
+    "description": "Complete the beginner puzzles from the Main Puzzle Series.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250848691326160906/IMG_1436.png?ex=666c6f1f&is=666b1d9f&hm=ba593a1a92fb42684e7d8092ef8457c86403f7bbb80e5aa38219b5ff951f83db&",
+    "createdAt": "2024-06-11 05:36:36.342 +00:00",
+    "updatedAt": "2024-06-13 16:26:07.787 +00:00"
+  },
+  {
+    "id": 52,
+    "name": "Oh, God, IT BURNS!",
+    "title": "of the Iron Stomach",
+    "description": "Awarded for reaching the throne atop Flaming Belly Grumbles.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250201998716833892/Flaming_Belly_grumbles.PNG?ex=666a14d8&is=6668c358&hm=3682e87bc06ea02ea5d40b0f31ffd243820481cf09d0f7775c894bc5a83d7854&",
+    "createdAt": "2024-06-11 21:36:24.281 +00:00",
+    "updatedAt": "2024-06-11 21:36:24.281 +00:00"
+  },
+  {
+    "id": 53,
+    "name": "Cruise Compass",
+    "title": "Exponential Entropy",
+    "description": "Awarded for completing Forward and Back.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250202361163550720/voro.png?ex=666a152e&is=6668c3ae&hm=b912e4f828d005cf086126db7124588fc341e955fd9309ee6b6bc5c77e62fb9d&",
+    "createdAt": "2024-06-11 21:37:50.653 +00:00",
+    "updatedAt": "2024-06-11 21:37:50.653 +00:00"
+  },
+  {
+    "id": 54,
+    "name": "Vorondur's Syringe",
+    "title": "Lanze's Legacy",
+    "description": "Awarded for completing Tetanus Tower.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250202723312467968/Removal-362.png?ex=666a1584&is=6668c404&hm=90c290d6922a31f01b4a98939d8845b338680a77e87cb137995e43d77d976816&",
+    "createdAt": "2024-06-11 21:39:16.989 +00:00",
+    "updatedAt": "2024-06-11 21:39:16.989 +00:00"
+  },
+  {
+    "id": 55,
+    "name": "Abandoned Observatory",
+    "title": "The Spacial Observer",
+    "description": "Awarded for completing Abandoned Observatory.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250205005424754789/Abandoned_Observatory.PNG?ex=666a17a4&is=6668c624&hm=ca41ad131a19368e370702fb18a1f3baa67a959163ee78fff89ff6c29c441d77&",
+    "createdAt": "2024-06-11 21:48:21.218 +00:00",
+    "updatedAt": "2024-06-11 21:48:21.218 +00:00"
+  },
+  {
+    "id": 56,
+    "name": "Zodia",
+    "title": "Stareater",
+    "description": "Complete any Mid Sized Event Puzzle",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250322807770841108/IMG_1333.png?ex=666a855b&is=666933db&hm=8c42790d95fc4e4fcd4fb07f9757e96c3ba52160fef0dec0081e5d7273c585f2&",
+    "createdAt": "2024-06-12 05:32:05.657 +00:00",
+    "updatedAt": "2024-06-12 05:36:27.340 +00:00"
+  },
+  {
+    "id": 57,
+    "name": "Pirate Badge",
+    "title": "Big Blue Explorer",
+    "description": "Awarded for completing Big Blue.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250506296919064679/piratebadge.png?ex=666b303e&is=6669debe&hm=11a87f96388a7f7ae26ba6f53058c858c347f53b628cce98e94a91300656e07a&",
+    "createdAt": "2024-06-12 17:45:34.624 +00:00",
+    "updatedAt": "2024-06-12 17:45:34.624 +00:00"
+  },
+  {
+    "id": 58,
+    "name": "Void Lion Medallion",
+    "title": "Courageous Lion",
+    "description": "Awarded for completing Lion's Share.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250506466968997938/void_lion_badge.png?ex=666b3067&is=6669dee7&hm=a92ba2cd208470c4687f4681533a8ce27219d66af87e7496c2ddda177e419db2&",
+    "createdAt": "2024-06-12 17:46:15.112 +00:00",
+    "updatedAt": "2024-06-12 17:46:15.112 +00:00"
+  },
+  {
+    "id": 59,
+    "name": "Niniki's Lollipop",
+    "title": "Sweet Tooth",
+    "description": "Awarded for completing Lollipop Mountain.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250510792051130378/mountain_lollipop.png?ex=666b346e&is=6669e2ee&hm=b5faa7dd028ce6b5c01b25dbdba75ecf0f8dbfe4ba049b3c95cd4aaf0545742f&",
+    "createdAt": "2024-06-12 18:03:26.292 +00:00",
+    "updatedAt": "2024-06-12 18:03:26.292 +00:00"
+  },
+  {
+    "id": 60,
+    "name": "Crystal Jumper's Stare",
+    "title": "The Concerned",
+    "description": "Awarded for completing Senpai's Classroom or Senpai's Classroom (EU)",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250661492265582602/Niceportrait_Ver2.png?ex=666bc0c7&is=666a6f47&hm=19da2ad39b4d99a556f3272b2568a2ce16aece27d3a5b5da156b1bd062ade367&",
+    "createdAt": "2024-06-13 04:02:16.203 +00:00",
+    "updatedAt": "2024-06-13 04:02:16.203 +00:00"
+  },
+  {
+    "id": 61,
+    "name": "Always Has Been",
+    "title": "Jumping IS Easy?!",
+    "description": "Awarded for completing any version of Another Space Shooter",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250662097675882496/Always_Has_Been.png?ex=666bc158&is=666a6fd8&hm=efb54030b9b732568df6abcdf7fb406e1ccfaf86a3bea772965eef1ede8fd201&",
+    "createdAt": "2024-06-13 04:04:40.363 +00:00",
+    "updatedAt": "2024-06-13 04:04:40.363 +00:00"
+  },
+  {
+    "id": 62,
+    "name": "Villain Number One",
+    "title": "Lesson In Trickery",
+    "description": "Awarded for completing Lazy Town Gymnasium.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250717886746726471/Villain_Number_One.png?ex=666bf54d&is=666aa3cd&hm=2a42cfcf0fac816138b20a161790ba78b1044846ac1b97d792a76591bab3773c&",
+    "createdAt": "2024-06-13 04:06:27.926 +00:00",
+    "updatedAt": "2024-06-13 07:46:21.545 +00:00"
+  },
+  {
+    "id": 63,
+    "name": "The Almighty Dhalmel",
+    "title": "Dhalmel Climber",
+    "description": "Ignored the message book at the start and climbed to the top anyway.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250663031327686706/DhalmelBadge.png?ex=666bc236&is=666a70b6&hm=ccbe225ce4f3b1a100b564dfec1df87d4cbb58dcd9435b35e279f537ceb645a2&",
+    "createdAt": "2024-06-13 04:08:22.987 +00:00",
+    "updatedAt": "2024-06-13 04:08:22.987 +00:00"
+  },
+  {
+    "id": 64,
+    "name": "Dumpster Fire",
+    "title": "War Criminal",
+    "description": "Beat Crime Against Humanity for some reason",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250663395871559700/DumpsterBadge.png?ex=666bc28d&is=666a710d&hm=c5e03fb74412e1c6bf25d08b81bf82d3f932452838d9179af0cc3bd0e500ed91&",
+    "createdAt": "2024-06-13 04:09:49.878 +00:00",
+    "updatedAt": "2024-06-13 04:09:49.878 +00:00"
+  },
+  {
+    "id": 65,
+    "name": "Legally Distinct Kingdom",
+    "title": "Rollercoaster Rider",
+    "description": "Reached the end of Tragic Kingdom, hopefully also said \"wheee\" during the rollercoaster part.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250664042876637246/TragicBadge.png?ex=666bc328&is=666a71a8&hm=52ef5b342b3cb65e830747bc155fcdea79bdd892e317c769f40a9e27d7f81f06&",
+    "createdAt": "2024-06-13 04:12:24.125 +00:00",
+    "updatedAt": "2024-06-13 04:12:24.125 +00:00"
+  },
+  {
+    "id": 66,
+    "name": "Haunted Puzzle Mansion",
+    "title": "Very Spooky",
+    "description": "Dodged Nintendo's lawyers and beat the SM64 inspired Haunted Puzzle Mansion.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250664568531976212/HauntedBadge.png?ex=666bc3a5&is=666a7225&hm=312b57f476cb34f6074d6eb6d1f968ee82c0e8c2e37d35e59a93076510d4f71b&",
+    "createdAt": "2024-06-13 04:14:29.453 +00:00",
+    "updatedAt": "2024-06-13 04:14:29.453 +00:00"
+  },
+  {
+    "id": 67,
+    "name": "Comfy Badge",
+    "title": "Comfy",
+    "description": "Developed insomnia and a fear of invisible platforms, beating the Comfy Jump Puzzle.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250664993074970686/SharkBadge.png?ex=666bc40a&is=666a728a&hm=6b13f516646e931b38862054fa74264b4a6b0c011f56d89da5108eb6554203e8&",
+    "createdAt": "2024-06-13 04:16:10.796 +00:00",
+    "updatedAt": "2024-06-13 04:16:10.796 +00:00"
+  },
+  {
+    "id": 68,
+    "name": "Jumpdom Hearts",
+    "title": "Guardian of Light",
+    "description": "Jumped to Heart and probably wished they were playing the real Kingdom Hearts Instead.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250665421170937856/KHBadge.png?ex=666bc470&is=666a72f0&hm=60426eca4031693b9d7bff11d7fa88bb768053711b87fc90a49bfa07e03e810f&",
+    "createdAt": "2024-06-13 04:17:52.749 +00:00",
+    "updatedAt": "2024-06-13 04:17:52.749 +00:00"
+  },
+  {
+    "id": 69,
+    "name": "Moving Gallery Badge",
+    "title": "Art Enthusiast",
+    "description": "Jumped at shadows and reached the message book in Moving Gallery.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250665911048867873/GalleryBadge.png?ex=666bc4e5&is=666a7365&hm=54cca6a491cbf7e6fe231a4adec04de38ee52668e5f871a53bb1bf2f809a0437&",
+    "createdAt": "2024-06-13 04:19:49.591 +00:00",
+    "updatedAt": "2024-06-13 04:19:49.591 +00:00"
+  },
+  {
+    "id": 70,
+    "name": "Park Badge",
+    "title": "Park Walker",
+    "description": "Took a leisurely Walk in the Park without a single jump, the way FFXIV was intended to be played",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250666450889474048/ParkBadge.png?ex=666bc566&is=666a73e6&hm=50622f3cbde6bbcd49e83e120bc3f4b893ddf7775110ee625808da740f1c6da4&",
+    "createdAt": "2024-06-13 04:21:58.294 +00:00",
+    "updatedAt": "2024-06-13 04:21:58.294 +00:00"
+  },
+  {
+    "id": 71,
+    "name": "Hidden Yew",
+    "title": "Yew Conqueror",
+    "description": "Emboldened by the flame of ambition, enough to survive the Void's loveless embrace...",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250716933427298396/Hidden_Yew_500.png?ex=666bf46a&is=666aa2ea&hm=b10bc163adaf33d8e0ecd5c7c35f259b2122af917347b0e1d7da150feb1cfd0b&",
+    "createdAt": "2024-06-13 07:42:34.331 +00:00",
+    "updatedAt": "2024-06-13 07:42:34.331 +00:00"
+  },
+  {
+    "id": 72,
+    "name": "Model Colosseum",
+    "title": "Void Gladiator",
+    "description": "Awarded for completing Void Colosseum II.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250849236770095225/62323266-601f-49fa-ada5-56cf6abcd80c-image.png?ex=666c6fa1&is=666b1e21&hm=09ca5b05ba9ecfe451d1da395c2c58c76f63c635f078d9889d7b8161bf714afe&",
+    "createdAt": "2024-06-13 16:28:17.920 +00:00",
+    "updatedAt": "2024-06-13 16:28:17.920 +00:00"
+  },
+  {
+    "id": 73,
+    "name": "Tower Tome",
+    "title": "Tower Sovereign",
+    "description": "Awarded for completing Ivory Void.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250849352944058399/Removal-972.png?ex=666c6fbd&is=666b1e3d&hm=2356528bd4118296e99061b9abffd60ce3b3ba154b6a2569159c8c9e1125d7ee&",
+    "createdAt": "2024-06-13 16:28:45.597 +00:00",
+    "updatedAt": "2024-06-13 16:28:45.597 +00:00"
+  },
+  {
+    "id": 74,
+    "name": "Void Labyrinth Medal",
+    "title": "Labyrinth Researcher",
+    "description": "Awarded for completing Void Labyrinth.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250849665214185583/b1166f45-15ac-427e-8057-f99bc1340a7e-image.png?ex=666c7007&is=666b1e87&hm=dc33e79a0494dfc5213f7cf1d20e76742355d45ac8055d6613ae8343615f0900&",
+    "createdAt": "2024-06-13 16:29:59.971 +00:00",
+    "updatedAt": "2024-06-13 16:29:59.971 +00:00"
+  },
+  {
+    "id": 75,
+    "name": "Forgotten Hourglass",
+    "title": "Voidsand",
+    "description": "Awarded for completing Voidsand Castle.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250849812853817375/640a4a2c-fa3b-4625-abbb-137122a8b419-image.png?ex=666c702b&is=666b1eab&hm=3298834f9a79dd3f5a02ad5f323abbd87dd87482bb4d849e94e1cc762637f1c1&",
+    "createdAt": "2024-06-13 16:30:35.184 +00:00",
+    "updatedAt": "2024-06-13 16:30:35.184 +00:00"
+  },
+  {
+    "id": 76,
+    "name": "Voidfire Torch",
+    "title": "Silent Reveler",
+    "description": "Awarded for completing Voidfire Faire.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250850000779481200/68dd41fb-ce2d-4e0c-8939-3b09c60aa02d-image.png?ex=666c7057&is=666b1ed7&hm=4be5121b6cf6591c1035e6f25f211c8dd48b7cb85bf249d228e819861592e251&",
+    "createdAt": "2024-06-13 16:31:19.985 +00:00",
+    "updatedAt": "2024-06-13 16:31:19.985 +00:00"
+  },
+  {
+    "id": 77,
+    "name": "Tricksters Badge",
+    "title": "Tricked the Trickster",
+    "description": "Awarded for completing Trickster's Retreat",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250872091130204320/tricksters_paradise.png?ex=666c84ea&is=666b336a&hm=fa25f2daf791d674e24ab5447a5afaf53aaf29cc890998ac6d55d17a28fac878&",
+    "createdAt": "2024-06-13 17:59:06.710 +00:00",
+    "updatedAt": "2024-06-13 17:59:06.710 +00:00"
+  },
+  {
+    "id": 78,
+    "name": "it dark",
+    "title": "Photophobic",
+    "description": "Endured every incarnation of Photophobia",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1250971821352816660/photophobia.png?ex=666ce1cc&is=666b904c&hm=9b1396d9d06a5677280f645b3a64da00bb8ac170305ad535aa53c7fbee61aa3a&",
+    "createdAt": "2024-06-14 00:35:24.330 +00:00",
+    "updatedAt": "2024-06-14 00:35:24.330 +00:00"
+  },
+  {
+    "id": 79,
+    "name": "Jenga Jump",
+    "title": "Nyanga",
+    "description": "Awarded for completing Jenga Jump",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251061513406644256/pixlr-image-generator-e394dbcc-ab6c-4fae-9b47-ea0849116e74.png?ex=666d3554&is=666be3d4&hm=f1d70e532f8782f7fdd2cc94ca8e929980a2b6be7c08ca5984925d6683e895fc&",
+    "createdAt": "2024-06-14 06:31:48.565 +00:00",
+    "updatedAt": "2024-06-14 06:31:48.565 +00:00"
+  },
+  {
+    "id": 80,
+    "name": "Nyan Cat",
+    "title": "Nyan of Nightmares",
+    "description": "Awarded for completing Nyan Cat",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251061655434166282/pixlr-image-generator-e91aa715-b4c5-43e2-a551-28442f61b003.png?ex=666d3576&is=666be3f6&hm=a17bba489ae90e127405d181429c41d0db1fb9b0b1f6e7f0425e1e5ff069ea97&",
+    "createdAt": "2024-06-14 06:32:22.456 +00:00",
+    "updatedAt": "2024-06-14 06:32:22.456 +00:00"
+  },
+  {
+    "id": 81,
+    "name": "PAC-MANIA",
+    "title": "PAC-NYANIA",
+    "description": "Awarded for completing PAC-MANIA",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251061844198559806/pixlr-image-generator-cf61e8a9-6d56-4d72-a131-9cceda3a39b2.png?ex=666d35a3&is=666be423&hm=15761e3a4999f4f33ee23341c2b537521563d88c350111334ac9dfab0222ebc8&",
+    "createdAt": "2024-06-14 06:33:07.404 +00:00",
+    "updatedAt": "2024-06-14 06:33:07.404 +00:00"
+  },
+  {
+    "id": 82,
+    "name": "Black Mage",
+    "title": "My Leylines",
+    "description": "Awarded for completing Black Mage.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251061950356656148/Black_Mage.png?ex=666d35bc&is=666be43c&hm=578f6dcca58a99bd3ff53c8ca68e8003406e556dfb88ffd089096af2ae5ababa&",
+    "createdAt": "2024-06-14 06:33:32.698 +00:00",
+    "updatedAt": "2024-06-14 06:33:32.698 +00:00"
+  },
+  {
+    "id": 83,
+    "name": "Jump Maze Wonderland",
+    "title": "Wondernyan'd",
+    "description": "Awarded for completing Jump Maze Wonderland",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251062066249465917/pixlr-image-generator-70965fba-6428-4162-8dbb-9bac17e83559.png?ex=666d35d8&is=666be458&hm=44f01d5ad92d79a9c1854add5f098e70ccd6469543eddc4c2b1e75f1aeb16230&",
+    "createdAt": "2024-06-14 06:34:00.334 +00:00",
+    "updatedAt": "2024-06-14 06:34:00.334 +00:00"
+  },
+  {
+    "id": 84,
+    "name": "Virtuous Heights",
+    "title": "Nyangelic",
+    "description": "Awarded for completing Virtuous Heights",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251062194565808159/pixlr-image-generator-e20d047e-17a3-448a-81cb-094781df42701.png?ex=666d35f6&is=666be476&hm=7daf685e0cc48dc8ad8b876cf510de5e65f1aadfd145c10199c57a03b4261d89&",
+    "createdAt": "2024-06-14 06:34:30.896 +00:00",
+    "updatedAt": "2024-06-14 06:34:30.896 +00:00"
+  },
+  {
+    "id": 85,
+    "name": "Oraku's Vase",
+    "title": "Vase-Based Thinker",
+    "description": "Awarded for completing Ace of Vase, Player Bookmark, and Sleeping with the Fishes.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251228164395368498/Vase_Of_Dalamud.png?ex=666dd089&is=666c7f09&hm=79188df07d21f8787d119d397da2d1f89033bd0d06dc32a0e175274069301915&",
+    "createdAt": "2024-06-14 17:34:01.371 +00:00",
+    "updatedAt": "2024-06-14 17:34:01.371 +00:00"
+  },
+  {
+    "id": 86,
+    "name": "Mi Eru's Snowball",
+    "title": "Snowball Fighter",
+    "description": "Awarded for completing Throw The Snowball Or Jump",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251228242187391016/Mi_Erus_Snowball.png?ex=666dd09b&is=666c7f1b&hm=366069665e12a510480d3d3f04cb239177ebb9992dedf7fc9f50ad6bc7728246&",
+    "createdAt": "2024-06-14 17:34:19.735 +00:00",
+    "updatedAt": "2024-06-14 17:34:19.735 +00:00"
+  },
+  {
+    "id": 87,
+    "name": "Henteko Starlight Sticker",
+    "title": "Proto Jump Puzzler",
+    "description": "Awarded for completing Henteko House.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251228352556171284/Henteko_Starlight_Coin.png?ex=666dd0b5&is=666c7f35&hm=8ccc60bfed53fcb441dd7dd5fc09cf69603bb4d547669f05beecfeafbc8c1636&",
+    "createdAt": "2024-06-14 17:34:46.058 +00:00",
+    "updatedAt": "2024-06-14 17:34:46.058 +00:00"
+  },
+  {
+    "id": 88,
+    "name": "Ancient Library",
+    "title": "Spark of Innovation",
+    "description": "Awarded for completing Library of the Ancients.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251228457644462201/Ancient_Library.png?ex=666dd0cf&is=666c7f4f&hm=b8ea695518d31e2e3ee92bea784f72852f101dd9de40eaf231bd9b8cd4a78300&",
+    "createdAt": "2024-06-14 17:35:11.135 +00:00",
+    "updatedAt": "2024-06-14 17:35:11.135 +00:00"
+  },
+  {
+    "id": 89,
+    "name": "Grim Reaper Soul",
+    "title": "Late Stage Capitalism",
+    "description": "Awarded for completing Sweatshop.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251228587990716526/Grim_Reaper_Soul.png?ex=666dd0ee&is=666c7f6e&hm=887c70c322ce704de2c0f87dc360242fa5ca1b9072b62963215e6f6d0fa4626a&",
+    "createdAt": "2024-06-14 17:35:42.179 +00:00",
+    "updatedAt": "2024-06-14 17:35:42.179 +00:00"
+  },
+  {
+    "id": 90,
+    "name": "Sad No More",
+    "title": "Upper",
+    "description": "Gave Keanu something to smile about",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251643508826050620/sub-buzz-6010-1639611287-16.jpg?ex=666f535a&is=666e01da&hm=2a407856cede2f93a6fa807f7308ba123b7984e408cbaee42deda64895f82524&",
+    "createdAt": "2024-06-15 21:04:27.013 +00:00",
+    "updatedAt": "2024-06-15 21:04:27.013 +00:00"
+  },
+  {
+    "id": 91,
+    "name": "Pandora's Box",
+    "title": "Unleashed Knowledge",
+    "description": "Awarded for completing any version of Pandora's Box.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251900130920235070/Pandoras_Box.png?ex=6670425a&is=666ef0da&hm=f1fcaf270ed6c2ec93a29e03f4430865f4b74472e7f4dae91e71ba4165c860e5&",
+    "createdAt": "2024-06-16 14:04:10.536 +00:00",
+    "updatedAt": "2024-06-16 14:04:10.536 +00:00"
+  },
+  {
+    "id": 92,
+    "name": "Garden Waterfall",
+    "title": "Elegant Decor",
+    "description": "Awarded for completing the rainy tower puzzles made by Emerald Ares.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251901334974890054/Garden_Waterfall.png?ex=66704379&is=666ef1f9&hm=2426b3911f0390bc92c8fe52f78d1e1fc2912e31f20bede2a75968fc6c0a466e&",
+    "createdAt": "2024-06-16 14:08:57.547 +00:00",
+    "updatedAt": "2024-06-16 14:08:57.547 +00:00"
+  },
+  {
+    "id": 93,
+    "name": "Vertical Forest",
+    "title": "Tower Surveyor",
+    "description": "Awarded for completing the four regional towers that describe the historical conditions of each region.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251901600759550093/Vertical_Forest.png?ex=667043b8&is=666ef238&hm=4116725801c995f2c080561a7e11a71561ee7a118b989bfffc45dee10dfe4857&",
+    "createdAt": "2024-06-16 14:10:00.936 +00:00",
+    "updatedAt": "2024-06-16 14:10:00.936 +00:00"
+  },
+  {
+    "id": 94,
+    "name": "Controversial Flower",
+    "title": "Forbidden Flower",
+    "description": "Awarded for completing Abyss and 1ATH Emperor.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251901833014677677/Controversial_Flower.png?ex=667043f0&is=666ef270&hm=97363cdc06a9b45bea4467b94b5a3be1dfdd6a9ef94be4fbd989c872256b4b41&",
+    "createdAt": "2024-06-16 14:10:56.427 +00:00",
+    "updatedAt": "2024-06-16 14:10:56.427 +00:00"
+  },
+  {
+    "id": 95,
+    "name": "Wealthy Verdant Pond",
+    "title": "Ridiculously Rich",
+    "description": "Awarded for completing Smiling's New Home.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251902107145998408/Wealthy_Verdant_Pond.png?ex=66704431&is=666ef2b1&hm=86ce8b44105d03bec2b3906aa1d62eed266c4540622bca73c96bfc79805202f0&",
+    "createdAt": "2024-06-16 14:12:01.693 +00:00",
+    "updatedAt": "2024-06-16 14:12:01.693 +00:00"
+  },
+  {
+    "id": 96,
+    "name": "Frozen Chair",
+    "title": "Sit Jumper",
+    "description": "Awarded for completing It's Cold Inside.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251902343797145691/Frozen_Chair.png?ex=66704469&is=666ef2e9&hm=a64c8785bca737dcd651a235c5c6c2fe30f7b5912f8511c54c4c45157e9a3acb&",
+    "createdAt": "2024-06-16 14:12:58.067 +00:00",
+    "updatedAt": "2024-06-16 14:12:58.067 +00:00"
+  },
+  {
+    "id": 97,
+    "name": "Season 1 NA 1 Star",
+    "title": "NA 1 Star",
+    "description": "Awarded upon completion of all the North American DC 1 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251985478832623666/removal.ai_5ecab55a-56d9-4f6b-a34f-b009a460ae33-puzzle-league-na1-season-1.png?ex=667091d6&is=666f4056&hm=3b1623011106ca3244e6d4353772cdfab2d1b3b7eaa49009488b433bf346e8ed&",
+    "createdAt": "2024-06-16 19:43:19.034 +00:00",
+    "updatedAt": "2024-06-16 21:23:08.282 +00:00"
+  },
+  {
+    "id": 98,
+    "name": "Season 1 NA 2 Star",
+    "title": "NA 2 Star",
+    "description": "Awarded upon completion of all the North American DC 2 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252017123757133955/removal.ai_3535bf66-3f05-4a96-a463-2a2e0c57f623-puzzle-league-na2-season-1.png?ex=6670af4f&is=666f5dcf&hm=4963b4db5c4329121e69bad42a4c9ed833f6deaac518cdd701106f2129dfc8f5&",
+    "createdAt": "2024-06-16 19:45:50.233 +00:00",
+    "updatedAt": "2024-06-16 21:49:03.773 +00:00"
+  },
+  {
+    "id": 99,
+    "name": "Season 1 NA 3 Star",
+    "title": "NA 3 Star",
+    "description": "Awarded upon completion of all the North American DC 3 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1251986767121354852/removal.ai_6734f74f-e14c-447a-b476-a467741a4918-puzzle-league-na3-season-1.png?ex=6670930a&is=666f418a&hm=19963d5ee092de3ac0f681a0f3ef75e62e16e9a0af398094672449282daa2633&",
+    "createdAt": "2024-06-16 19:48:26.208 +00:00",
+    "updatedAt": "2024-06-16 21:21:32.995 +00:00"
+  },
+  {
+    "id": 100,
+    "name": "Season 1 EU 2 star",
+    "title": "EU 2 Star",
+    "description": "Awarded upon completion of all the Season 1 European DC 2 star puzzles in the Parkour League.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252013455465254922/removal.ai_072047a3-8c9b-473b-8148-1ed9d6cac454-puzzle-league-eu2-season-2.png?ex=6670abe5&is=666f5a65&hm=916175eb5bcc2daf1db0a77574b1c44becb756573adc886f976a295727ca3ae1&",
+    "createdAt": "2024-06-16 21:34:29.220 +00:00",
+    "updatedAt": "2024-06-16 21:34:29.220 +00:00"
+  },
+  {
+    "id": 101,
+    "name": "Season 1 EU 1 star",
+    "title": "EU 1 Star",
+    "description": "Awarded upon completion of all the European DC 1 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252014328672948285/removal.ai_e1ec13ce-60f5-48dd-9eee-61104e47c868-puzzle-league-eu1-season-1.png?ex=6670acb5&is=666f5b35&hm=df696245a4d1457eb1f68d0029da067eadcb7e4d97ba599a1b1c8a354a9538a9&",
+    "createdAt": "2024-06-16 21:37:57.356 +00:00",
+    "updatedAt": "2024-06-16 21:37:57.356 +00:00"
+  },
+  {
+    "id": 102,
+    "name": "Season 1 EU 3 star",
+    "title": "EU 3 Star",
+    "description": "Awarded upon completion of all the European DC 3 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252016851530289193/removal.ai_d3d38c42-8522-4cae-b9f9-41c0f506413f-puzzle-league-eu2-season-1.png?ex=6670af0e&is=666f5d8e&hm=51891cc59100f77ee7905f82ef70f4fdb5d3520d6960eee5186c94dd443ae0f1&",
+    "createdAt": "2024-06-16 21:43:02.383 +00:00",
+    "updatedAt": "2024-06-16 21:47:58.943 +00:00"
+  },
+  {
+    "id": 103,
+    "name": "Season 1 Global 4 Star",
+    "title": "Global 4 Star",
+    "description": "Awarded upon completion of all the season 1, 4 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252016389812785152/removal.ai_3993ddfc-f21f-45d5-bb06-e9392aaf964c-puzzle-league-global4-season-1.png?ex=6670aea0&is=666f5d20&hm=9b4dbf01bad112cacc026596cbed78ac73ce30dbc34cb7aa40ea869778098821&",
+    "createdAt": "2024-06-16 21:46:08.813 +00:00",
+    "updatedAt": "2024-06-16 21:46:08.813 +00:00"
+  },
+  {
+    "id": 104,
+    "name": "Season 2 NA 1 Star",
+    "title": "S2 - NA 1 Star",
+    "description": "Awarded upon completion of all the season 2, North American 1 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252023939845193898/na1.png?ex=6670b5a8&is=666f6428&hm=fb356017c17bc1f5b70e3e0a3b3a50630e543d1ce6f909e3ace1e3f08a788ed6&",
+    "createdAt": "2024-06-16 22:16:08.898 +00:00",
+    "updatedAt": "2024-06-16 22:16:08.898 +00:00"
+  },
+  {
+    "id": 105,
+    "name": "Season 2 NA 2 Star",
+    "title": "S2 - NA 2 Star",
+    "description": "Awarded upon completion of all the season 2, North American 2 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252024174931873822/na2.png?ex=6670b5e0&is=666f6460&hm=ae16a88391cf8b4c68647f15b865c9ffddaec85482c3758f15f072c85eee0ab4&",
+    "createdAt": "2024-06-16 22:17:04.906 +00:00",
+    "updatedAt": "2024-06-16 22:17:04.906 +00:00"
+  },
+  {
+    "id": 106,
+    "name": "Season 2 NA 3 Star",
+    "title": "S2 - NA 3 Star",
+    "description": "Awarded upon completion of all the season 2, North American 3 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252024413977710673/na3.png?ex=6670b619&is=666f6499&hm=a16cc46e94c8fb3496d108eea0074392a2fa5f65310bb6e8f1705dadc7e74815&",
+    "createdAt": "2024-06-16 22:18:01.889 +00:00",
+    "updatedAt": "2024-06-16 22:18:01.889 +00:00"
+  },
+  {
+    "id": 107,
+    "name": "Season 2 EU 3 Star",
+    "title": "S2 - EU 3 Star",
+    "description": "Awarded upon completion of all the season 2, European 3 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252024691950878800/eu3.png?ex=6670b65c&is=666f64dc&hm=0032edc46a8a7f32be7739730c5ac6fd56074f60936431d8543d18c1f80b2a92&",
+    "createdAt": "2024-06-16 22:19:08.213 +00:00",
+    "updatedAt": "2024-06-16 22:19:08.213 +00:00"
+  },
+  {
+    "id": 108,
+    "name": "Season 2 EU 2 Star",
+    "title": "S2 - EU 2 Star",
+    "description": "Awarded upon completion of all the season 2, European 2 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252024932716511252/eu2.png?ex=6670b695&is=666f6515&hm=810d4e649f40a0ffe7fbb87a18d2b963761095c2b79fa46ee6481f4c918c2eb9&",
+    "createdAt": "2024-06-16 22:20:05.593 +00:00",
+    "updatedAt": "2024-06-16 22:20:05.593 +00:00"
+  },
+  {
+    "id": 109,
+    "name": "Season 2 EU 1 Star",
+    "title": "S2 - EU 1 Star",
+    "description": "Awarded upon completion of all the season 2, European 1 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252025178595131503/eu1.png?ex=6670b6d0&is=666f6550&hm=368dbee8ab75164ab339daf7ec2ee42a91deef0f73319bee3cd7025c6345240f&",
+    "createdAt": "2024-06-16 22:21:04.193 +00:00",
+    "updatedAt": "2024-06-16 22:21:04.193 +00:00"
+  },
+  {
+    "id": 110,
+    "name": "Season 2 Global 4 Star",
+    "title": "S2 - Global 4 Star",
+    "description": "Awarded upon completion of all the season 2, 4 star puzzles in the Parkour League",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252025791710236673/global_4.png?ex=6670b762&is=666f65e2&hm=cdd007e1038fdc3d96460aa972d6c9d14c3cd9a7c9a3d590f6aaedb821744f75&",
+    "createdAt": "2024-06-16 22:23:30.353 +00:00",
+    "updatedAt": "2024-06-16 22:23:30.353 +00:00"
+  },
+  {
+    "id": 111,
+    "name": "McDonalds In Alaska",
+    "title": "Snowed In",
+    "description": "Awarded for completing Alaskan McDonalds.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252524087268474994/Alaskan_McDonalds.png?ex=66728775&is=667135f5&hm=d57772dfd3ce032e5ead10e661c9ed81704f8fed94b0ed1c5670e65401fd6d17&",
+    "createdAt": "2024-06-18 07:23:33.355 +00:00",
+    "updatedAt": "2024-06-18 07:23:33.355 +00:00"
+  },
+  {
+    "id": 112,
+    "name": "Flood of Light",
+    "title": "Forgiven Jumping",
+    "description": "Awarded for completing Astral Stagnation.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252524265526526153/Astral_Stagnation.png?ex=6672879f&is=6671361f&hm=4e812f03e88a5844c9931b1f8dd9383f5bbbc0e6ff4a6cf3e64b288bb956128b&",
+    "createdAt": "2024-06-18 07:24:15.789 +00:00",
+    "updatedAt": "2024-06-18 07:24:15.789 +00:00"
+  },
+  {
+    "id": 113,
+    "name": "Til Sea Swallows All",
+    "title": "Limsan Pirate",
+    "description": "Awarded for completing Maelstrom Forever.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252524396577296464/Maelstrom_Forever.png?ex=667287be&is=6671363e&hm=c7a84cea7836a4d4df04cbf54f58ffdabf3eb4b363ec9190193711acb3e8595a&",
+    "createdAt": "2024-06-18 07:24:47.049 +00:00",
+    "updatedAt": "2024-06-18 07:24:47.049 +00:00"
+  },
+  {
+    "id": 114,
+    "name": "Void Sanctuary",
+    "title": "The Saved",
+    "description": "Awarded for completing Salvation.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1252524498461130824/Salvation.png?ex=667287d7&is=66713657&hm=392b2bef8fb8eda8de16bf8913e78368240c4239c196199ab571ac89b87bdc59&",
+    "createdAt": "2024-06-18 07:25:11.315 +00:00",
+    "updatedAt": "2024-06-18 07:25:11.315 +00:00"
+  },
+  {
+    "id": 115,
+    "name": "Bear Stuck",
+    "title": "Silly Bear",
+    "description": "Awarded for completing the bear's sticky phasing puzzles.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1253064262109368422/bear-1.png?ex=66747e88&is=66732d08&hm=89fac13734dc8096ab95fbfdbe7648ff6e0be7b9b3a51292bd9516cfd7244e7e&",
+    "createdAt": "2024-06-19 19:10:01.098 +00:00",
+    "updatedAt": "2024-06-19 19:10:01.098 +00:00"
+  },
+  {
+    "id": 116,
+    "name": "Not A Gagana",
+    "title": "Chip Thief",
+    "description": "Awarded for completing Gagana Heaven.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1254176594780623010/Not_A_Gagana.png?ex=66788a79&is=667738f9&hm=42dff6a53c8f11597e068e61b85dfcc27259a050bddf4818f941407ea4366fc3&",
+    "createdAt": "2024-06-22 20:50:01.824 +00:00",
+    "updatedAt": "2024-06-22 20:50:01.824 +00:00"
+  },
+  {
+    "id": 117,
+    "name": "Bear Kaleidoscope",
+    "title": "Awestruck Bear",
+    "description": "Awarded for completing the bear's rainbow puzzles.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1257413252829286551/bearrainbow3.png?ex=668450d9&is=6682ff59&hm=ac31a58835ed2ff6fe6ed32629b1c8b98ca14e0d85a33a2b377a53c3d552cf1f&",
+    "createdAt": "2024-07-01 19:11:21.256 +00:00",
+    "updatedAt": "2024-07-01 19:11:21.256 +00:00"
+  },
+  {
+    "id": 118,
+    "name": "Parfait Poacher",
+    "title": "Parfait Enjoyer",
+    "description": "Awarded for completing Parfait Panic!?, Great Parfait Escape, and Parfait Archives.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1266579936790057022/Parfait_Poacher.png?ex=66a5a9fc&is=66a4587c&hm=041287fc806c10c7442ab2c83fc6b9b39c98f596ac47b1f939efa7e971eef008&",
+    "createdAt": "2024-07-27 02:16:29.088 +00:00",
+    "updatedAt": "2024-07-27 02:16:29.088 +00:00"
+  },
+  {
+    "id": 119,
+    "name": "Shark Over Palace",
+    "title": "Lunatic Shark",
+    "description": "Awarded for completing Shark Palace.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1266580052418625606/Shark_Over_Palace.png?ex=66a5aa18&is=66a45898&hm=7c6f63a6fdf80bb6824fef28d271deb74ef9968aa43be24d96a39cd950332f79&",
+    "createdAt": "2024-07-27 02:16:56.524 +00:00",
+    "updatedAt": "2024-07-27 02:16:56.524 +00:00"
+  },
+  {
+    "id": 120,
+    "name": "Firewatch",
+    "title": "Firewatch",
+    "description": "Awarded for completing Firewatch.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1272896831751454902/sdf.PNG?ex=66bca50d&is=66bb538d&hm=9c0604fba247b8bfc2609731d792c4256afa6cb87e66dcd8bc63c9c7d607f4e9&",
+    "createdAt": "2024-08-13 12:37:34.085 +00:00",
+    "updatedAt": "2024-08-13 12:37:34.085 +00:00"
+  },
+  {
+    "id": 121,
+    "name": "Dimensional Mirror",
+    "title": "Reflected Survival",
+    "description": "Awarded for completing Mirror Dimension. May be claimed with a North American clear as well.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280406811555663942/mirrordimension.png?ex=66d7f744&is=66d6a5c4&hm=c8a688d925dea9a9c74bb08a21fe72c2971538f98f6958a2896c533162aa5be1&",
+    "createdAt": "2024-09-03 05:59:32.812 +00:00",
+    "updatedAt": "2024-09-03 05:59:32.812 +00:00"
+  },
+  {
+    "id": 122,
+    "name": "Oraku's Globe",
+    "title": "Global Conqueror",
+    "description": "Awarded for completing Varnish Thy Enemies.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280406926332661843/varnishthyenemies.png?ex=66d7f760&is=66d6a5e0&hm=66db5ca1c5c55cf2a0f233e00ec75502b9f95327144a7dce829794dfabcd2486&",
+    "createdAt": "2024-09-03 06:00:00.149 +00:00",
+    "updatedAt": "2024-09-03 06:00:00.149 +00:00"
+  },
+  {
+    "id": 123,
+    "name": "Spooky Tank",
+    "title": "Haunted Fish Haver",
+    "description": "Awarded for completing Spooky Aquarium.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280407020092133398/spookyaquarium.png?ex=66d7f776&is=66d6a5f6&hm=587d52a0285d2b3579a872d63a4a87ce977026c7053f3f94b45473d16ff97acb&",
+    "createdAt": "2024-09-03 06:00:22.498 +00:00",
+    "updatedAt": "2024-09-03 06:00:22.498 +00:00"
+  },
+  {
+    "id": 124,
+    "name": "Green Hawk",
+    "title": "Avian Domain",
+    "description": "Awarded for completing Emerald Death.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280407107291840604/emerald_death.png?ex=66d7f78b&is=66d6a60b&hm=cf341d2231ba0c054389568c2fdbb8a787b21ef214d597488d2d6188c0869317&",
+    "createdAt": "2024-09-03 06:00:43.392 +00:00",
+    "updatedAt": "2024-09-03 06:00:43.392 +00:00"
+  },
+  {
+    "id": 125,
+    "name": "Fake Mario",
+    "title": "No Get Star",
+    "description": "Awarded for completing Secret Mario Level.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280407191412543568/secret_mario_level.png?ex=66d7f79f&is=66d6a61f&hm=ffc5ba7e16db87cf240d66047af475425099e90f2f4a9fa0820cab7e787d92a5&",
+    "createdAt": "2024-09-03 06:01:03.432 +00:00",
+    "updatedAt": "2024-09-03 06:01:03.432 +00:00"
+  },
+  {
+    "id": 126,
+    "name": "Ghost Pepper Chili Bowl",
+    "title": "Spice Enjoyer",
+    "description": "Awarded for completing Ghost Pepper Chili.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280407274204041256/ghost_pepper_chili.png?ex=66d7f7b2&is=66d6a632&hm=9e3775f8e611b1df6aa1c9a5e3a77d03c798f7b1ebf4ba77718dfe81d93f5133&",
+    "createdAt": "2024-09-03 06:01:23.094 +00:00",
+    "updatedAt": "2024-09-03 06:01:23.094 +00:00"
+  },
+  {
+    "id": 127,
+    "name": "Dangerous Ice Cream",
+    "title": "Keeper of Ice Cream",
+    "description": "Awarded for completing Divided World.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280407362838073365/divided_world.png?ex=66d7f7c8&is=66d6a648&hm=f7c89bb887eefc032e556a28e2e49b7ef95439010bfc8a1882009ad19eabf6ea&",
+    "createdAt": "2024-09-03 06:01:44.324 +00:00",
+    "updatedAt": "2024-09-03 06:01:44.324 +00:00"
+  },
+  {
+    "id": 128,
+    "name": "Vault Library",
+    "title": "Secret Librarian",
+    "description": "Awarded for completing Wooden Vault. The North American version is also valid.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1280407441174958100/wooden_vault.png?ex=66d7f7da&is=66d6a65a&hm=cb306d6a49205a0250eb784cc686a15fc5cbf65eb6526245c8cacdb38138dc22&",
+    "createdAt": "2024-09-03 06:02:02.917 +00:00",
+    "updatedAt": "2024-09-03 06:02:02.917 +00:00"
+  },
+  {
+    "id": 129,
+    "name": "Vampire Yandere GF",
+    "title": "Please Notice Me",
+    "description": "Awarded for completing Senpai's Nightmare.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282149876418744440/senpais_nightmare.png?ex=66de4e9f&is=66dcfd1f&hm=3dc3c24f4ba9f699912baf2d69d54707655ece166bddd8d1d80d062cea66820c&",
+    "createdAt": "2024-09-08 01:25:51.859 +00:00",
+    "updatedAt": "2024-09-08 01:25:51.859 +00:00"
+  },
+  {
+    "id": 130,
+    "name": "Knockoff Chocobo",
+    "title": "Affordable Merch",
+    "description": "Awarded for completing Heaven-on-Medium.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282149982098685973/Heaven_On_Medium.png?ex=66de4eb8&is=66dcfd38&hm=f361955a58380d5f114158634bb763485b23dc1641cd90a9884347707bd3c556&",
+    "createdAt": "2024-09-08 01:26:17.095 +00:00",
+    "updatedAt": "2024-09-08 01:26:17.095 +00:00"
+  },
+  {
+    "id": 131,
+    "name": "Goat-Headed Demon",
+    "title": "Soul Eater",
+    "description": "Awarded for completing Sacrificial Chamber.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282150100818202686/sacrificial_chamber.png?ex=66de4ed5&is=66dcfd55&hm=3f8542df52b27c4ab759b0de2ab4584169c1a379ecb21d114b573740a7d20942&",
+    "createdAt": "2024-09-08 01:26:45.367 +00:00",
+    "updatedAt": "2024-09-08 01:26:45.367 +00:00"
+  },
+  {
+    "id": 132,
+    "name": "Sakura Tranquility",
+    "title": "Inner Nirvana",
+    "description": "Awarded for completing Sakura Disaster.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282150221232734228/sakura_disaster.png?ex=66de4ef1&is=66dcfd71&hm=f5dc54ecac836cc664f3d3abe81fd5e531faf22c135c136ce49158255bd9e589&",
+    "createdAt": "2024-09-08 01:27:14.056 +00:00",
+    "updatedAt": "2024-09-08 01:27:14.056 +00:00"
+  },
+  {
+    "id": 133,
+    "name": "Edge of the World",
+    "title": "Distant Traveler",
+    "description": "Awarded for completing Final Carnival.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282150566725812234/final_carnival.png?ex=66de4f44&is=66dcfdc4&hm=be1a166bf85edd2bd33adfbb3cc14fbce5a55206ab82ded2f0bf48a64c1c014c&",
+    "createdAt": "2024-09-08 01:28:36.404 +00:00",
+    "updatedAt": "2024-09-08 01:28:36.404 +00:00"
+  },
+  {
+    "id": 134,
+    "name": "Remnant of Chaos",
+    "title": "Buried Contempt",
+    "description": "Awarded for completing Time To Kill CHAOS.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282150687362519112/time_to_kill_CHAOS.png?ex=66de4f61&is=66dcfde1&hm=5676e21cad9efe6e476baa340287d1d8b36c7e59d723604c6a2e30e214d5dec9&",
+    "createdAt": "2024-09-08 01:29:05.207 +00:00",
+    "updatedAt": "2024-09-08 01:29:05.207 +00:00"
+  },
+  {
+    "id": 135,
+    "name": "Even my kidney is pounding, I think it hurts",
+    "title": "love4eva",
+    "description": "Awarded for completing yyxy",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282150806031700029/yyxy.png?ex=66de4f7d&is=66dcfdfd&hm=178ec64a3c005a73b07181503afe04f0d04309f06983c7c8aa7a53b83453cbf7&",
+    "createdAt": "2024-09-08 01:29:33.465 +00:00",
+    "updatedAt": "2024-09-08 01:29:33.465 +00:00"
+  },
+  {
+    "id": 136,
+    "name": "Enemy Umbrella",
+    "title": "Umbrella Slayer",
+    "description": "Awarded for completing Verdant Blades.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282150895164981358/verdant_blades.png?ex=66de4f92&is=66dcfe12&hm=8d062e17a7fb453c8d9e3025cd2a2198eb3493be2ce37bcdb002fc9471d33c7e&",
+    "createdAt": "2024-09-08 01:29:54.718 +00:00",
+    "updatedAt": "2024-09-08 01:29:54.718 +00:00"
+  },
+  {
+    "id": 137,
+    "name": "Divine Phoenix J'az",
+    "title": "Witness of Rebirth",
+    "description": "Awarded for completing Tower of Rebirth.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282155524594597968/tower_of_rebirth.png?ex=66de53e2&is=66dd0262&hm=d5327675f18f72b7d090133d93f65ac8ad74941c9435039a13468de47bfc2ee5&",
+    "createdAt": "2024-09-08 01:48:18.501 +00:00",
+    "updatedAt": "2024-09-08 01:48:18.501 +00:00"
+  },
+  {
+    "id": 138,
+    "name": "Liminal Space",
+    "title": "The Uncertain",
+    "description": "Awarded for completing Unfocused Conscience.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282179903663509577/unfocused_consciousness-modified.png?ex=66de6a96&is=66dd1916&hm=0a456052107263407158dd4af16b4494db22b740e135c14144622eb0a7f83d88&",
+    "createdAt": "2024-09-08 03:25:10.951 +00:00",
+    "updatedAt": "2024-09-08 03:25:10.951 +00:00"
+  },
+  {
+    "id": 139,
+    "name": "Modern Flower",
+    "title": "Pursuing Roemeo",
+    "description": "Awarded for completing Azura's Demise.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282179992549200003/azuras_demise.png?ex=66de6aab&is=66dd192b&hm=8af9af1a4b4de166d4abb11338cac7af06e21c66e339eb6d182f8e69bbe4d4a4&",
+    "createdAt": "2024-09-08 03:25:32.139 +00:00",
+    "updatedAt": "2024-09-08 03:25:32.139 +00:00"
+  },
+  {
+    "id": 140,
+    "name": "Soul Vial",
+    "title": "Unethical Science",
+    "description": "Awarded for completing Soul Research.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282180077165215845/soul_research.png?ex=66de6ac0&is=66dd1940&hm=a12f83ba71ac0231716e05ac823e8031b35d2764bfe71ba05b4b5609e6672e39&",
+    "createdAt": "2024-09-08 03:25:52.241 +00:00",
+    "updatedAt": "2024-09-08 03:25:52.241 +00:00"
+  },
+  {
+    "id": 141,
+    "name": "Hedge Maze",
+    "title": "Lie Breaker",
+    "description": "Awarded for completing Puzzle of Lies.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282180179866812488/puzzle_of_lies.png?ex=66de6ad8&is=66dd1958&hm=0cc26ca6a0d85f487e791757026e98491f74947560a917d97ff79ae26b38f14b&",
+    "createdAt": "2024-09-08 03:26:16.791 +00:00",
+    "updatedAt": "2024-09-08 03:26:16.791 +00:00"
+  },
+  {
+    "id": 142,
+    "name": "Prismatic Coral",
+    "title": "Deep Sea Explorer",
+    "description": "Awarded for completing Challenger Deep. The Japanese version of the puzzle is valid for this clear.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282180324549464094/challenger_deep.png?ex=66de6afb&is=66dd197b&hm=6cb2407ba77eafee9f0de584b4dcd61ad205cdd32fcd3e46642ad33f3c772b1c&",
+    "createdAt": "2024-09-08 03:26:51.276 +00:00",
+    "updatedAt": "2024-09-08 03:26:51.276 +00:00"
+  },
+  {
+    "id": 143,
+    "name": "Specialized Flower Training",
+    "title": "Floral Trooper",
+    "description": "Awarded for completing Flower Boot Camp.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282180578812100698/flower_boot_camp.png?ex=66de6b37&is=66dd19b7&hm=092f8e816b8f3f2cb2c66fd30905e12724461f853a30e7fd2578942f08412054&",
+    "createdAt": "2024-09-08 03:27:51.864 +00:00",
+    "updatedAt": "2024-09-08 03:27:51.864 +00:00"
+  },
+  {
+    "id": 144,
+    "name": "Prismatic Coral",
+    "title": "Deep Sea Explorer",
+    "description": "Awarded for completing Challenger Deep. The Japanese version of the puzzle is valid for this clear.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282180716318163030/challenger_deep.png?ex=66de6b58&is=66dd19d8&hm=59020128d44f6631e6dcbd711b121852eddbd085159c79783963ad7126792279&",
+    "createdAt": "2024-09-08 03:28:24.661 +00:00",
+    "updatedAt": "2024-09-08 03:28:24.661 +00:00"
+  },
+  {
+    "id": 145,
+    "name": "Karman Line",
+    "title": "Skybreaker",
+    "description": "Awarded for completing Limit of the Sky.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1282188960529121374/Karman_Line.png?ex=66de7306&is=66dd2186&hm=e11b32d638a9d44552576977e86a89181e57e745cf93b2d9876740ee5783b2f4&",
+    "createdAt": "2024-09-08 04:01:10.220 +00:00",
+    "updatedAt": "2024-09-08 04:01:10.220 +00:00"
+  },
+  {
+    "id": 146,
+    "name": "Mix & Match",
+    "title": "Odd Eye",
+    "description": "Awarded for completing Odd Eye Circle",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1283997704007192608/OEC.png?ex=66e5078c&is=66e3b60c&hm=64850c418d6a41686b7c6fe5a282f6f3d4014691cd72bf642451e2ca1b444858&",
+    "createdAt": "2024-09-13 03:48:28.446 +00:00",
+    "updatedAt": "2024-09-13 03:48:28.446 +00:00"
+  },
+  {
+    "id": 147,
+    "name": "Ceruleum Flask",
+    "title": "Ceruleum Drinker",
+    "description": "Awarded for clearing Ghoul Ceruleum Plant",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1284754308302245898/removal.ai_57f4d134-949a-4dde-aef9-27d8ccc0ac6f-image.png?ex=66e7c830&is=66e676b0&hm=5c6841c73accd9480e7f1d7df91f95fc0605b049415894312d478b5c4d5f8b8f&",
+    "createdAt": "2024-09-15 05:54:56.794 +00:00",
+    "updatedAt": "2024-09-15 05:54:56.794 +00:00"
+  },
+  {
+    "id": 148,
+    "name": "Crying Jigsaw Puzzle",
+    "title": "Stupidity Solver",
+    "description": "Awarded for completing Stupidest Puzzle.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285018155311173697/stupidest_puzzle.png?ex=66e8bdea&is=66e76c6a&hm=813b8797309cd4f40212868b69f3c5d2e145bddcd582f4234472f17595ff855d&",
+    "createdAt": "2024-09-15 23:23:22.903 +00:00",
+    "updatedAt": "2024-09-15 23:23:22.903 +00:00"
+  },
+  {
+    "id": 149,
+    "name": "Rainy Ghost",
+    "title": "In From The Rain",
+    "description": "Awarded for completing Invisible Rain. The NA and JP versions of this puzzle are also viable for a clear.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285109279199727657/invisible_rain.png?ex=66e912c8&is=66e7c148&hm=d51a332f0b6b26b52c0e592b5bcbc20048826202413973d261c24e48b0f713d3&",
+    "createdAt": "2024-09-16 05:25:28.478 +00:00",
+    "updatedAt": "2024-09-16 05:25:28.478 +00:00"
+  },
+  {
+    "id": 150,
+    "name": "Futuristic Bedroom",
+    "title": "Emote Master",
+    "description": "Award for completing Emote Theory. The NA and JP versions of this puzzle are also viable for a clear.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285109465187876974/emote_theory.png?ex=66e912f4&is=66e7c174&hm=86c3d355a61b6d72ddda5259d4b2fe19981dba554ab943eb56d695205c69ad99&",
+    "createdAt": "2024-09-16 05:26:12.857 +00:00",
+    "updatedAt": "2024-09-16 05:26:12.857 +00:00"
+  },
+  {
+    "id": 151,
+    "name": "Cybernetic Guard Dog",
+    "title": "Robot Handler",
+    "description": "Awarded for completing Futuristic Zoo Omega.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285109563728597156/futuristic_zoo_omega.png?ex=66e9130c&is=66e7c18c&hm=ff227ce2d7b4ee742f88bf29dd1b8209fb8bcb183bd5ff66ee9e573033b8ede3&",
+    "createdAt": "2024-09-16 05:26:36.361 +00:00",
+    "updatedAt": "2024-09-16 05:26:36.361 +00:00"
+  },
+  {
+    "id": 152,
+    "name": "Inspiring Light Orb",
+    "title": "Technical Scholar",
+    "description": "Awarded for completing Inspiring Light. The JP version of this puzzle is also viable for a clear.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285109661233840169/inspiring_light.png?ex=66e91323&is=66e7c1a3&hm=033a2b22b91c161fc3ae8321b85f1340e72add134aed22295ab7db0cf485e5fe&",
+    "createdAt": "2024-09-16 05:26:59.513 +00:00",
+    "updatedAt": "2024-09-16 05:26:59.513 +00:00"
+  },
+  {
+    "id": 153,
+    "name": "Monochrome Skyline",
+    "title": "Urban Silence",
+    "description": "Awarded for completing Monochrome Towers.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285109741915471916/monochrome_towers.png?ex=66e91336&is=66e7c1b6&hm=c74b57c93d0de0ed26737e7dc660fb6c061831bee115a3d6183bcd379f3af5b9&",
+    "createdAt": "2024-09-16 05:27:18.760 +00:00",
+    "updatedAt": "2024-09-16 05:27:18.760 +00:00"
+  },
+  {
+    "id": 154,
+    "name": "Memory of Nyan",
+    "title": "Nyan That's Right",
+    "description": "Awarded for completing Nyan Simulation.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285109816481812530/nyan_simulation.png?ex=66e91348&is=66e7c1c8&hm=6733dee066adf5900b05186102a2f188302b56ae91392e6eeff6d45cb8f012ea&",
+    "createdAt": "2024-09-16 05:27:36.544 +00:00",
+    "updatedAt": "2024-09-16 05:27:36.544 +00:00"
+  },
+  {
+    "id": 155,
+    "name": "Professional Gunslingers",
+    "title": "Vigilante",
+    "description": "Awarded for completing Texan Blunderville.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285109895745503314/texan_blunderville.png?ex=66e9135b&is=66e7c1db&hm=b962f7511121feeedb31c1772f306d68a15fbc2d51e7cf22d5dc27f2bf0d0f92&",
+    "createdAt": "2024-09-16 05:27:55.481 +00:00",
+    "updatedAt": "2024-09-16 05:27:55.481 +00:00"
+  },
+  {
+    "id": 156,
+    "name": "Coffee Shiba",
+    "title": "Absolute Comfort",
+    "description": "Awarded for completing Vega's Bathroom.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285137328670642206/vegas_bathroom.webp?ex=66e92ce7&is=66e7db67&hm=679e2ecb27d3fedf95079f751c01fba3c715d48336136b9f99bb11fac4210c2b&",
+    "createdAt": "2024-09-16 07:16:56.004 +00:00",
+    "updatedAt": "2024-09-16 07:16:56.004 +00:00"
+  },
+  {
+    "id": 157,
+    "name": "Exercising Shibas",
+    "title": "Absolute Fitness",
+    "description": "Awarded for completing Warm Up.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285137500980908157/warm_up.png?ex=66e92d10&is=66e7db90&hm=7ad79a031b1bf3041fb03d843b91e65b7ba66e79ad6d7ba2ad10af0030456eff&",
+    "createdAt": "2024-09-16 07:17:37.025 +00:00",
+    "updatedAt": "2024-09-16 07:17:37.025 +00:00"
+  },
+  {
+    "id": 158,
+    "name": "Working Shiba",
+    "title": "Absolute Slumber",
+    "description": "Awarded for completing Copium Room.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285155332682809357/copium_room.png?ex=66e93dac&is=66e7ec2c&hm=a82153c020a76842505b5c431226700b78f2632fe8eee4b0cf23e2223ad9e56a&",
+    "createdAt": "2024-09-16 08:28:28.445 +00:00",
+    "updatedAt": "2024-09-16 08:28:28.445 +00:00"
+  },
+  {
+    "id": 159,
+    "name": "Loggers",
+    "title": "Loggers",
+    "description": "Awarded for completing Scent of Wood.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1285490056127320097/LOGGERS.webp?ex=66ea7568&is=66e923e8&hm=b83dd2594c88a8e7f9c2230c1abf0f8470a889bbd24835f93d2faffa8af9cde5&",
+    "createdAt": "2024-09-17 06:38:32.899 +00:00",
+    "updatedAt": "2024-09-17 06:38:32.899 +00:00"
+  },
+  {
+    "id": 160,
+    "name": "Stella",
+    "title": "Starcaller",
+    "description": "Complete the Intermediate puzzles from the Main List",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1290762870769844356/IMG_1435.png?ex=66fda419&is=66fc5299&hm=47f20d809fc76cd100b02f50e48ba82d244fe2a9e55d32dcfa3e1918c7c1c7e3&",
+    "createdAt": "2024-10-01 19:50:49.792 +00:00",
+    "updatedAt": "2024-10-01 19:50:49.792 +00:00"
+  },
+  {
+    "id": 161,
+    "name": "Shadow Towers",
+    "title": "Jumper of Darkness",
+    "description": "Awarded for completing Towers of Darkness. The NA version of this puzzle is also valid for this clear.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302873244541386753/1.jpg?ex=6729b2c3&is=67286143&hm=acbde9e7356387bd0725acd1b7f7b181c9d66699c4525284f5aa00d00db3ffbb&",
+    "createdAt": "2024-10-16 05:17:18.576 +00:00",
+    "updatedAt": "2024-11-04 05:53:07.889 +00:00"
+  },
+  {
+    "id": 162,
+    "name": "Waterfall of Lon",
+    "title": "Chair Jumper",
+    "description": "Awarded for completing Tower of Lon.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302874798480953344/2.jpg?ex=6729b436&is=672862b6&hm=acaf8d2e0059bad76f805faf1adce0c63cb6445f9928412436e8dcbd02ceb088&",
+    "createdAt": "2024-10-16 05:17:42.500 +00:00",
+    "updatedAt": "2024-11-04 05:59:18.463 +00:00"
+  },
+  {
+    "id": 163,
+    "name": "Floating House",
+    "title": "What is Gravity?",
+    "description": "Awarded for completing Fractured Manor.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302874637599772723/3.jpg?ex=6729b40f&is=6728628f&hm=2ed32be487acc3359cd1bf43b005d550ec131c39e5792a5634c4e5e1f72a56f3&",
+    "createdAt": "2024-10-16 05:18:06.561 +00:00",
+    "updatedAt": "2024-11-04 05:58:40.104 +00:00"
+  },
+  {
+    "id": 164,
+    "name": "Natural Fountain",
+    "title": "Waterfall Enthusiast",
+    "description": "Awarded for completing Natural Tower.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302875825820930068/4.jpg?ex=6729b52b&is=672863ab&hm=3bb83be4bb2a138e8d51f58971c9db7ac15ce612d6d2b928d2652f325d8ebc3e&",
+    "createdAt": "2024-10-16 05:18:26.934 +00:00",
+    "updatedAt": "2024-11-04 06:03:23.380 +00:00"
+  },
+  {
+    "id": 165,
+    "name": "Saint's Wake Lantern",
+    "title": "Spooky Month",
+    "description": "Awarded for completing Spooky Wake.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302875869840150559/5.png?ex=6729b535&is=672863b5&hm=756e3d38b1eb85fe584b6865f95d6b9ac428805b76864e7d8d92caa64b26a7ae&",
+    "createdAt": "2024-10-16 05:18:44.295 +00:00",
+    "updatedAt": "2024-11-04 06:03:33.830 +00:00"
+  },
+  {
+    "id": 166,
+    "name": "Greatwood Clipping",
+    "title": "Antigravity Botanist",
+    "description": "Awarded for completing Solemn Dive.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302875911582122004/6.jpg?ex=6729b53f&is=672863bf&hm=e607b6b741ba6e37034f878e17079c75d2a449a8380d660b323b84f32352578f&",
+    "createdAt": "2024-10-16 05:19:05.296 +00:00",
+    "updatedAt": "2024-11-04 06:03:43.764 +00:00"
+  },
+  {
+    "id": 167,
+    "name": "Broken Tetris Blocks",
+    "title": "Deconstructor",
+    "description": "Awarded for completing Sundered Tetris.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302875964887273533/7.png?ex=6729b54c&is=672863cc&hm=e147dd8fd7abf06d4773b122fa4bbad53fef4385b792eb3ec79fde0d9e80750e&",
+    "createdAt": "2024-10-16 05:19:23.636 +00:00",
+    "updatedAt": "2024-11-04 06:03:56.463 +00:00"
+  },
+  {
+    "id": 168,
+    "name": "Antivirus XII (Birb)",
+    "title": "Firewall Breaker",
+    "description": "Awarded for completing Antivirus XI.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302876011314020352/8.png?ex=6729b557&is=672863d7&hm=e8df1003260f5548f18520b5cfea241edf09348b40486a59bf06c678b928fb77&",
+    "createdAt": "2024-10-16 05:19:46.918 +00:00",
+    "updatedAt": "2024-11-04 06:04:07.525 +00:00"
+  },
+  {
+    "id": 169,
+    "name": "Starlight Samurai",
+    "title": "Slip Survivor",
+    "description": "Awarded for completing Ice Fortress.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1302876049754951760/9.png?ex=6729b560&is=672863e0&hm=c5c8662b59ed0d2b81998f3b621e68d2e853df8d36c76a7f50a02ac61bd667e1&",
+    "createdAt": "2024-10-16 06:35:21.807 +00:00",
+    "updatedAt": "2024-11-04 06:04:16.773 +00:00"
+  },
+  {
+    "id": 170,
+    "name": "Bear Necessities",
+    "title": "Grazing Bear",
+    "description": "Awarded for completing the bear's food puzzles.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1297686525814767657/bearfood.png?ex=6716d441&is=671582c1&hm=598b4e2cd019187639338f6fed1662c24fd7aa737b6e86aa4e09da25d21493c8&",
+    "createdAt": "2024-10-20 22:22:57.770 +00:00",
+    "updatedAt": "2024-10-20 22:22:57.770 +00:00"
+  }
+]
