@@ -1510,5 +1510,14 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1297686525814767657/bearfood.png?ex=6716d441&is=671582c1&hm=598b4e2cd019187639338f6fed1662c24fd7aa737b6e86aa4e09da25d21493c8&",
     "createdAt": "2024-10-20 22:22:57.770 +00:00",
     "updatedAt": "2024-10-20 22:22:57.770 +00:00"
+  },
+  {
+    "id": 171,
+    "name": "Ghoul Osteen",
+    "title": "Begone, Heeheedemon",
+    "description": "Awarded for clearing Ghoul Mega Church",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1312499105217511554/ghoulosteen.png?ex=674cb78b&is=674b660b&hm=0ad693db59010f3ead95e1d1b1e37df0cb704714b695def7baa364f192a8b324&",
+    "createdAt": "2024-11-30 19:22:51.914 +00:00",
+    "updatedAt": "2024-11-30 19:22:51.914 +00:00"
   }
 ]
