@@ -1519,5 +1519,23 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1312499105217511554/ghoulosteen.png?ex=674cb78b&is=674b660b&hm=0ad693db59010f3ead95e1d1b1e37df0cb704714b695def7baa364f192a8b324&",
     "createdAt": "2024-11-30 19:22:51.914 +00:00",
     "updatedAt": "2024-11-30 19:22:51.914 +00:00"
+  },
+  {
+    "id": 172,
+    "name": "Logia",
+    "title": "Argonaut",
+    "description": "Awarded for completing a very high difficulty large scale event puzzle",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1317115454426320896/IMG_1420.png?ex=675d82db&is=675c315b&hm=ac8975e919494536434ed43a05c2f0d6657312bddf1128015f5fee8b55e2370b&",
+    "createdAt": "2024-12-13 13:06:35.311 +00:00",
+    "updatedAt": "2024-12-13 13:06:35.311 +00:00"
+  },
+  {
+    "id": 173,
+    "name": "Logia",
+    "title": "Atalanta",
+    "description": "Awarded for completing a very high difficulty large scale event puzzle",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1317115556956209172/IMG_1421.png?ex=675d82f3&is=675c3173&hm=6d1271b1351443534375b803f4544da2605c65fa00562bfd82c7f38f4c17a024&",
+    "createdAt": "2024-12-13 13:06:59.739 +00:00",
+    "updatedAt": "2024-12-13 13:06:59.739 +00:00"
   }
 ]
