@@ -1537,5 +1537,14 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1317115556956209172/IMG_1421.png?ex=675d82f3&is=675c3173&hm=6d1271b1351443534375b803f4544da2605c65fa00562bfd82c7f38f4c17a024&",
     "createdAt": "2024-12-13 13:06:59.739 +00:00",
     "updatedAt": "2024-12-13 13:06:59.739 +00:00"
+  },
+  {
+    "id": 174,
+    "name": "Ursa Major",
+    "title": "Starsbreath",
+    "description": "Awarded for completing Ursa Major.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1317803222345449472/ursa_major.png?ex=67600363&is=675eb1e3&hm=b84c056d73b95bd2a61068d0632511a417404d7255d0018f62ceb1217f5f0194&",
+    "createdAt": "2024-12-15 10:39:31.985 +00:00",
+    "updatedAt": "2024-12-15 10:39:31.985 +00:00"
   }
 ]
