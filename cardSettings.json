@@ -268,5 +268,14 @@
     "displayBadges": "[150,158,163,166,111]",
     "createdAt": "2024-11-04 04:50:53.358 +00:00",
     "updatedAt": "2024-12-19 02:45:06.206 +00:00"
+  },
+  {
+    "userId": "220980515291922432",
+    "characterName": "Plngu Noot",
+    "cardPhotoUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1320386321063350282/azmq4Ep_460s.jpg?ex=67696916&is=67681796&hm=cd536df79d4910e11b96a022602a6a27209f5bb6d7d7c9fa35a425ace687438c&",
+    "favoriteBadge": null,
+    "displayBadges": "[]",
+    "createdAt": "2024-12-22 13:43:00.149 +00:00",
+    "updatedAt": "2024-12-22 13:43:50.768 +00:00"
   }
 ]
