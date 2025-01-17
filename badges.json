@@ -1546,5 +1546,23 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1317803222345449472/ursa_major.png?ex=67600363&is=675eb1e3&hm=b84c056d73b95bd2a61068d0632511a417404d7255d0018f62ceb1217f5f0194&",
     "createdAt": "2024-12-15 10:39:31.985 +00:00",
     "updatedAt": "2024-12-15 10:39:31.985 +00:00"
+  },
+  {
+    "id": 176,
+    "name": "Emerald Heart",
+    "title": "Green",
+    "description": "Awarded for completing Emerald Ceruleum Plant.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1329926445551714334/Emerald_Ceruleum_Plant.png?ex=678c1e05&is=678acc85&hm=2887fd2bd4fd44d4c11652847802177c86e68a4dfef4ec41bfc4c5674b93e848&",
+    "createdAt": "2025-01-17 21:32:53.608 +00:00",
+    "updatedAt": "2025-01-17 21:41:04.384 +00:00"
+  },
+  {
+    "id": 177,
+    "name": "Mark of Oschon",
+    "title": "Friend of Fay",
+    "description": "Awarded to wanderers who walk the path of a Warrior of Light.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1329930810731659344/FayFayBadge.png?ex=678c2216&is=678ad096&hm=7f935ab21938e8bc25f70708f1b695df284f6b1fa432bbbcd0670817364b42e9&",
+    "createdAt": "2025-01-17 21:50:14.425 +00:00",
+    "updatedAt": "2025-01-17 21:50:14.425 +00:00"
   }
 ]
