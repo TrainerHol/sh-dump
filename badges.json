@@ -1591,5 +1591,86 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330084197666390056/TIERI_2_HINGAN_BADGE.png?ex=678cb0f0&is=678b5f70&hm=5d5effc951e6e9a278e5f8126addfd1a02ac44de7c4c96aa0b69d1b72aff81be&",
     "createdAt": "2025-01-18 07:59:44.642 +00:00",
     "updatedAt": "2025-01-18 07:59:44.642 +00:00"
+  },
+  {
+    "id": 181,
+    "name": "TIERI_6_WATER_BADGE",
+    "title": "Bouncy Bunny - Water",
+    "description": "Cleared ★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330084538365247551/TIERI_6_WATER_BADGE.png?ex=678cb141&is=678b5fc1&hm=c0d7a1d198fc535b338b79ff1ed7645d7962aa14ce19cd899ff8b89903da3e2d&",
+    "createdAt": "2025-01-18 08:01:05.908 +00:00",
+    "updatedAt": "2025-01-18 08:01:05.908 +00:00"
+  },
+  {
+    "id": 182,
+    "name": "TIERI_7_RUST_BADGE",
+    "title": "Bouncy Bunny - Rust",
+    "description": "Cleared ★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330084678165860352/TIERI_7_RUST_BADGE.png?ex=678cb163&is=678b5fe3&hm=03f5a606250da7f14d7696a0eff00154e74097b642eed0beaba730e3ae275731&",
+    "createdAt": "2025-01-18 08:01:39.527 +00:00",
+    "updatedAt": "2025-01-18 08:01:39.527 +00:00"
+  },
+  {
+    "id": 183,
+    "name": "TIERI_8_RUINS_BADGE",
+    "title": "Bouncy Bunny - Ruins",
+    "description": "Cleared ★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330084876296261652/TIERI_8_RUINS_BADGE.png?ex=678cb192&is=678b6012&hm=c44a4df68c6eb3171912f2f291fc51ccbeb255418671dd8ce3cf4fd9ef02c10a&",
+    "createdAt": "2025-01-18 08:02:26.485 +00:00",
+    "updatedAt": "2025-01-18 08:02:26.485 +00:00"
+  },
+  {
+    "id": 184,
+    "name": "TIERI_9_LIBRARY_BADGE",
+    "title": "Bouncy Bunny - Library",
+    "description": "Cleared ★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330084983292825650/TIERI_9_LIBRARY_BADGE.png?ex=678cb1ab&is=678b602b&hm=cd00b2f605190441f2d3b1879963e9f993c16128102dc9cb5ab18b09a44dfc47&",
+    "createdAt": "2025-01-18 08:02:51.968 +00:00",
+    "updatedAt": "2025-01-18 08:02:51.968 +00:00"
+  },
+  {
+    "id": 185,
+    "name": "Koala Sanctuary 1 Star",
+    "title": "Koala Sanctuary 1 Star",
+    "description": "Awarded for completing all 1 star puzzles within the Koala Sanctuary",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330086987390128149/ab5fcce9-5d3f-47f4-b9ca-da463881a996_removalai_preview.png?ex=678cb389&is=678b6209&hm=dba4dd5c0d567aa65722806763db61c866f69fcae854dc7d250bbd127c5a35c4&",
+    "createdAt": "2025-01-18 08:10:49.881 +00:00",
+    "updatedAt": "2025-01-18 08:10:49.881 +00:00"
+  },
+  {
+    "id": 186,
+    "name": "Koala Sanctuary 2 Star",
+    "title": "Koala Sanctuary 2 Star",
+    "description": "Awarded for completing all 2 star puzzles within the Koala Sanctuary",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330087315258867755/6cc601a3-c96c-4055-8ac7-f603ffac19d6_removalai_preview.png?ex=678cb3d7&is=678b6257&hm=d36f8f7fa1a1bec1f3e9e289c44b1941b93484253ac60c85bd1ec2933c7d788a&",
+    "createdAt": "2025-01-18 08:12:07.972 +00:00",
+    "updatedAt": "2025-01-18 08:12:07.972 +00:00"
+  },
+  {
+    "id": 187,
+    "name": "Koala Sanctuary 3 Star",
+    "title": "Koala Sanctuary 3 Star",
+    "description": "Awarded for completing all 3 star puzzles within the Koala Sanctuary",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330087437556518932/CINNA_3_STAR.png?ex=678cb3f4&is=678b6274&hm=90550c696628ac6fcc89509f364fd818457625caf8edf7243b765c7d540130a1&",
+    "createdAt": "2025-01-18 08:12:37.158 +00:00",
+    "updatedAt": "2025-01-18 08:12:37.158 +00:00"
+  },
+  {
+    "id": 188,
+    "name": "Koala Sanctuary 4 Star",
+    "title": "Koala Sanctuary 4 Star",
+    "description": "Awarded for completing all 4 star puzzles within the Koala Sanctuary",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330087560310947850/CINNA_4_STAR.png?ex=678cb412&is=678b6292&hm=29534af586babb90302530ea67725d22f9d8050600a179d32c13584ab7b624d5&",
+    "createdAt": "2025-01-18 08:13:06.713 +00:00",
+    "updatedAt": "2025-01-18 08:13:06.713 +00:00"
+  },
+  {
+    "id": 189,
+    "name": "Koala Sanctuary Champion",
+    "title": "Koala Sanctuary Champion",
+    "description": "Awarded for completing all puzzles within the Koala Sanctuary",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330087683271295018/e2dc4fdf-f849-4c87-b207-d2182ae1c61b_removalai_preview.png?ex=678cb42f&is=678b62af&hm=e02e6bc27eeb63f9dd4572b75b85c15e1a82b4814a616089b33bb3f1f4709c01&",
+    "createdAt": "2025-01-18 08:13:35.718 +00:00",
+    "updatedAt": "2025-01-18 08:13:35.718 +00:00"
   }
 ]

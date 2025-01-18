@@ -286,5 +286,14 @@
     "displayBadges": "[]",
     "createdAt": "2025-01-17 20:27:31.933 +00:00",
     "updatedAt": "2025-01-17 20:29:00.302 +00:00"
+  },
+  {
+    "userId": "202706462240276481",
+    "characterName": "",
+    "cardPhotoUrl": "",
+    "favoriteBadge": 189,
+    "displayBadges": "[189,185,186,187,188]",
+    "createdAt": "2025-01-18 08:44:19.336 +00:00",
+    "updatedAt": "2025-01-18 08:47:02.006 +00:00"
   }
 ]
