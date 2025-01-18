@@ -1681,5 +1681,32 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330106050640089178/Omega_Kekbirb.png?ex=678cc54a&is=678b73ca&hm=23495c8d015a2bcd08324667ac1d264258362047bcab7a763204e9b3e719b71c&",
     "createdAt": "2025-01-18 09:26:34.859 +00:00",
     "updatedAt": "2025-01-18 09:26:34.859 +00:00"
+  },
+  {
+    "id": 191,
+    "name": "TIERI_3_WOODEN_BADGE",
+    "title": "Bouncy Bunny - Wooden",
+    "description": "Cleared ★★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330267930113609729/3.png?ex=678d5c0d&is=678c0a8d&hm=d2a341da78e58096867b640b3e128068509ccb80114543f25a0a321d947c3a9d&",
+    "createdAt": "2025-01-18 20:09:49.918 +00:00",
+    "updatedAt": "2025-01-18 20:09:49.918 +00:00"
+  },
+  {
+    "id": 192,
+    "name": "TIERI_4_FOREST_BADGE",
+    "title": "Bouncy Bunny - Forest",
+    "description": "Cleared ★★★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330268091816345733/4.png?ex=678d5c34&is=678c0ab4&hm=28aa55129a82b94ea9ada6163015f58679984685c2019106a09dd10d284f656f&",
+    "createdAt": "2025-01-18 20:10:28.700 +00:00",
+    "updatedAt": "2025-01-18 20:10:28.700 +00:00"
+  },
+  {
+    "id": 193,
+    "name": "TIERI_5_CITY_BADGE",
+    "title": "Bouncy Bunny - City",
+    "description": "Cleared ★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330268207478739140/5.png?ex=678d5c4f&is=678c0acf&hm=a747d336188c2e185eae0121311a77904fc1395de03bbe1afbd208b39d068ede&",
+    "createdAt": "2025-01-18 20:10:56.035 +00:00",
+    "updatedAt": "2025-01-18 20:10:56.035 +00:00"
   }
 ]
