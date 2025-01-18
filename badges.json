@@ -1573,5 +1573,23 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1329983043858993162/panda.png?ex=678c52bb&is=678b013b&hm=3cddc1f52da7816b16244584c945a4821ce335a2af0d7cea9fe206c3acd94936&",
     "createdAt": "2025-01-18 01:17:47.709 +00:00",
     "updatedAt": "2025-01-18 01:17:47.709 +00:00"
+  },
+  {
+    "id": 179,
+    "name": "TIERI_1_AGLAIA_BADGE",
+    "title": "Bouncy Bunny - Aglaia",
+    "description": "Cleared ★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330084046792818811/TIERI_1_AGLAIA_BADGE.png?ex=678cb0cc&is=678b5f4c&hm=e2366c5ad3c708d16643c944b3bce960e6a6419f767be1a22ceb54dd607ca004&",
+    "createdAt": "2025-01-18 07:59:08.754 +00:00",
+    "updatedAt": "2025-01-18 07:59:08.754 +00:00"
+  },
+  {
+    "id": 180,
+    "name": "TIERI_2_HINGAN_BADGE",
+    "title": "Bouncy Bunny - Hingan",
+    "description": "Cleared ★★ Puzzle at Bouncy Bunny Venue!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330084197666390056/TIERI_2_HINGAN_BADGE.png?ex=678cb0f0&is=678b5f70&hm=5d5effc951e6e9a278e5f8126addfd1a02ac44de7c4c96aa0b69d1b72aff81be&",
+    "createdAt": "2025-01-18 07:59:44.642 +00:00",
+    "updatedAt": "2025-01-18 07:59:44.642 +00:00"
   }
 ]
