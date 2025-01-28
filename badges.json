@@ -1717,5 +1717,14 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1330633488973697024/Jumporium_Savage_Badge.png?ex=678eb081&is=678d5f01&hm=98dd725f1eeae6e1207889bb1d220fdc3329060906c547fca210cdf6e00bff3e&",
     "createdAt": "2025-01-19 20:22:25.893 +00:00",
     "updatedAt": "2025-01-19 20:22:25.893 +00:00"
+  },
+  {
+    "id": 195,
+    "name": "Bear Enigma",
+    "title": "Investigative Bear",
+    "description": "Awarded for completing the bear's investigations. \"The truth is in there, Flounder.\"",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1333733118703566848/bearinthehole.png?ex=6799f743&is=6798a5c3&hm=9dddc607f754713e3f10708a8aaf298e03de2eedc9ef299aad3c4ffd299f78fd&",
+    "createdAt": "2025-01-28 09:39:15.241 +00:00",
+    "updatedAt": "2025-01-28 09:39:15.241 +00:00"
   }
 ]
