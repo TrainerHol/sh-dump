@@ -304,5 +304,14 @@
     "displayBadges": "[179,180,191,192,193,182,183,184]",
     "createdAt": "2025-01-18 18:00:42.340 +00:00",
     "updatedAt": "2025-01-20 04:46:29.133 +00:00"
+  },
+  {
+    "userId": "96890853187919872",
+    "characterName": "Samuel Densus",
+    "cardPhotoUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1360657498629079152/wtfamidoin.png?ex=67fbea8b&is=67fa990b&hm=3a066fc41fa58978aefeb987ec937d54a776e8ac24388e4f85a88b03a509b394&",
+    "favoriteBadge": 9,
+    "displayBadges": "[9]",
+    "createdAt": "2025-04-12 16:46:28.816 +00:00",
+    "updatedAt": "2025-04-12 16:47:16.403 +00:00"
   }
 ]
