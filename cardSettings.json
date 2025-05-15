@@ -322,5 +322,14 @@
     "displayBadges": "[60,114,120,147,162,163,165,169]",
     "createdAt": "2025-05-01 12:36:27.833 +00:00",
     "updatedAt": "2025-05-04 12:45:57.211 +00:00"
+  },
+  {
+    "userId": "1323693054959423532",
+    "characterName": "Myth",
+    "cardPhotoUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1372661190077186149/Gh1c6jmXwAAx7gS.png?ex=682795da&is=6826445a&hm=340be9f1ac7bae72f9e8617fa0b0a675ccaed63e8ee0ab3c5f11427f55cba616&",
+    "favoriteBadge": null,
+    "displayBadges": "[176]",
+    "createdAt": "2025-05-15 19:45:30.802 +00:00",
+    "updatedAt": "2025-05-15 19:45:58.636 +00:00"
   }
 ]
