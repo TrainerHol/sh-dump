@@ -331,5 +331,14 @@
     "displayBadges": "[176]",
     "createdAt": "2025-05-15 19:45:30.802 +00:00",
     "updatedAt": "2025-05-15 19:45:58.636 +00:00"
+  },
+  {
+    "userId": "261906570005315586",
+    "characterName": "Allison Sidereum",
+    "cardPhotoUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1373241062633639986/sp_e12_cg_5.png?ex=6829b1e6&is=68286066&hm=1aaf772e0a300327597f3c74722c0d326f2310db1409223bb8187f074b16cb84&",
+    "favoriteBadge": null,
+    "displayBadges": "[]",
+    "createdAt": "2025-05-17 10:06:30.310 +00:00",
+    "updatedAt": "2025-05-17 10:09:43.342 +00:00"
   }
 ]
