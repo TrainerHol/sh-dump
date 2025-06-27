@@ -1735,5 +1735,14 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1380700128008212590/pixil-frame-0.png?ex=6844d4b2&is=68438332&hm=3737c5f6f2534058fa4927ddfdd2e8b323382f851ff7fcc70711551dc79c4131&",
     "createdAt": "2025-06-07 00:09:22.910 +00:00",
     "updatedAt": "2025-06-07 00:09:22.910 +00:00"
+  },
+  {
+    "id": 197,
+    "name": "Bear Painting",
+    "title": "Gouache Bear",
+    "description": "Awarded for completing the bear's tricky platforming gauntlet.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1388033947484557323/gouachebear.png?ex=685f82d9&is=685e3159&hm=1ba7bd005253eaeecaa1bb7fe7051b90c3cbbb1b0181f3937bcad50d8ff0a2a8&",
+    "createdAt": "2025-06-27 05:51:21.938 +00:00",
+    "updatedAt": "2025-06-27 05:51:21.938 +00:00"
   }
 ]
