@@ -340,5 +340,14 @@
     "displayBadges": "[]",
     "createdAt": "2025-05-17 10:06:30.310 +00:00",
     "updatedAt": "2025-05-17 10:09:43.342 +00:00"
+  },
+  {
+    "userId": "450857114068451329",
+    "characterName": "",
+    "cardPhotoUrl": "",
+    "favoriteBadge": 61,
+    "displayBadges": "[61]",
+    "createdAt": "2025-07-26 23:29:22.922 +00:00",
+    "updatedAt": "2025-07-26 23:31:17.155 +00:00"
   }
 ]
