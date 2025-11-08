@@ -1744,5 +1744,41 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1388033947484557323/gouachebear.png?ex=685f82d9&is=685e3159&hm=1ba7bd005253eaeecaa1bb7fe7051b90c3cbbb1b0181f3937bcad50d8ff0a2a8&",
     "createdAt": "2025-06-27 05:51:21.938 +00:00",
     "updatedAt": "2025-06-27 05:51:21.938 +00:00"
+  },
+  {
+    "id": 198,
+    "name": "NCN Bronze",
+    "title": "No Crawl Novemeber Bronze Medal",
+    "description": "Awarded for completing every puzzle from Tier 1 and 2 of the Puzzle Pilgrim's Bounty during the No Crawl November Event.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1436586956514656316/image.png?ex=6910255c&is=690ed3dc&hm=8c3e3d832cdeb07863d860118443e299bedd4b309d804e1db44e023aaec57041&",
+    "createdAt": "2025-11-08 05:23:41.233 +00:00",
+    "updatedAt": "2025-11-08 05:43:09.208 +00:00"
+  },
+  {
+    "id": 199,
+    "name": "NCN Silver",
+    "title": "No Crawl November Silver Medal",
+    "description": "Awarded for completing every puzzle from Tier 3 of the Puzzle Pilgrim's Bounty during the No Crawl November Event.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1436587168641585282/image.png?ex=6910258f&is=690ed40f&hm=bcdb642122d5223d78070ebfce252559e1203b52ed524489a079e29533271fad&",
+    "createdAt": "2025-11-08 05:24:31.751 +00:00",
+    "updatedAt": "2025-11-08 05:43:30.205 +00:00"
+  },
+  {
+    "id": 200,
+    "name": "NCN Gold",
+    "title": "No Crawl November Gold Medal",
+    "description": "Awarded for completing every puzzle from Tier 4 of the Puzzle Pilgrim's Bounty during the No Crawl November Event.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1436587360438718606/image.png?ex=691025bd&is=690ed43d&hm=9c9eba90d47344654d67c2ac0c413a75d5133c0544d348cc1acd25835c17f717&",
+    "createdAt": "2025-11-08 05:25:17.492 +00:00",
+    "updatedAt": "2025-11-08 05:44:02.615 +00:00"
+  },
+  {
+    "id": 201,
+    "name": "NCN Diamond",
+    "title": "No Crawl November Diamond Medal",
+    "description": "Awarded for completing every puzzle from Tier 5 of the Puzzle Pilgrim's Bounty during the No Crawl November Event. Wow!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1436587633600888971/image.png?ex=691025fe&is=690ed47e&hm=8b8316e8832044f50d80bfdd754782b1023bfe12ea7cf64b794788b399f885fb&",
+    "createdAt": "2025-11-08 05:26:22.656 +00:00",
+    "updatedAt": "2025-11-08 05:44:44.480 +00:00"
   }
 ]
