@@ -367,5 +367,14 @@
     "displayBadges": "[]",
     "createdAt": "2025-09-01 19:30:00.465 +00:00",
     "updatedAt": "2025-09-01 19:30:00.465 +00:00"
+  },
+  {
+    "userId": "113785671331741699",
+    "characterName": "Kate Fleur",
+    "cardPhotoUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1446103713830932512/ffxiv_dx11_2025-03-28_15-00-38.png?ex=6932c488&is=69317308&hm=c55ae1a4f3f77089c4d6a654c23a6062c8b652c2bb3603ba474db372c3931930&",
+    "favoriteBadge": null,
+    "displayBadges": "[]",
+    "createdAt": "2025-12-04 11:39:15.337 +00:00",
+    "updatedAt": "2025-12-04 11:39:53.026 +00:00"
   }
 ]
