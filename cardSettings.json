@@ -394,5 +394,14 @@
     "displayBadges": "[111,82,116,120,164,176]",
     "createdAt": "2026-01-26 22:18:51.243 +00:00",
     "updatedAt": "2026-01-26 22:18:51.243 +00:00"
+  },
+  {
+    "userId": "297720072103919616",
+    "characterName": "Kuba Nori",
+    "cardPhotoUrl": "",
+    "favoriteBadge": null,
+    "displayBadges": "[]",
+    "createdAt": "2026-02-01 10:55:00.821 +00:00",
+    "updatedAt": "2026-02-01 10:55:00.821 +00:00"
   }
 ]
