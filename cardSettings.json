@@ -403,5 +403,14 @@
     "displayBadges": "[]",
     "createdAt": "2026-02-01 10:55:00.821 +00:00",
     "updatedAt": "2026-02-01 11:14:03.821 +00:00"
+  },
+  {
+    "userId": "224678920874622987",
+    "characterName": "Seraphine Givrelune",
+    "cardPhotoUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1478840044931252245/monster-bob-2.png?ex=69a9dc9e&is=69a88b1e&hm=649161a0b46a116ef0ad3d7d84f2624ca6e49ca3d2d29fc0f4eb0d74ef857cc0&",
+    "favoriteBadge": null,
+    "displayBadges": "[]",
+    "createdAt": "2026-03-04 19:42:22.578 +00:00",
+    "updatedAt": "2026-03-04 19:42:22.592 +00:00"
   }
 ]
