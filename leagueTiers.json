@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": 1,
+    "seasonId": 1,
+    "name": "NA 1-Star",
+    "sortOrder": null,
+    "createdAt": "2026-04-30 14:27:21.640 +00:00",
+    "updatedAt": "2026-04-30 14:27:21.640 +00:00"
+  },
+  {
+    "id": 2,
+    "seasonId": 1,
+    "name": "NA 2-Star",
+    "sortOrder": null,
+    "createdAt": "2026-04-30 14:27:45.960 +00:00",
+    "updatedAt": "2026-04-30 14:27:45.960 +00:00"
+  },
+  {
+    "id": 3,
+    "seasonId": 1,
+    "name": "NA 3-Star",
+    "sortOrder": null,
+    "createdAt": "2026-04-30 14:27:58.325 +00:00",
+    "updatedAt": "2026-04-30 14:27:58.325 +00:00"
+  },
+  {
+    "id": 4,
+    "seasonId": 1,
+    "name": "EU 1-Star",
+    "sortOrder": null,
+    "createdAt": "2026-04-30 14:28:13.179 +00:00",
+    "updatedAt": "2026-04-30 14:28:13.179 +00:00"
+  },
+  {
+    "id": 5,
+    "seasonId": 1,
+    "name": "EU 2-Star",
+    "sortOrder": null,
+    "createdAt": "2026-04-30 14:28:35.690 +00:00",
+    "updatedAt": "2026-04-30 14:28:35.690 +00:00"
+  },
+  {
+    "id": 6,
+    "seasonId": 1,
+    "name": "EU 3-Star",
+    "sortOrder": null,
+    "createdAt": "2026-04-30 14:28:51.212 +00:00",
+    "updatedAt": "2026-04-30 14:28:51.212 +00:00"
+  },
+  {
+    "id": 7,
+    "seasonId": 1,
+    "name": "Global 4-Star",
+    "sortOrder": null,
+    "createdAt": "2026-04-30 14:29:15.469 +00:00",
+    "updatedAt": "2026-04-30 14:29:15.469 +00:00"
+  }
+]
