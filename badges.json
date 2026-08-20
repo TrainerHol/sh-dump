@@ -1798,5 +1798,59 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1510400716534186186/image.png?ex=6a1cadc8&is=6a1b5c48&hm=cd97dc0fbe9a77a783669e9a3895c068536edff2074db0c5780b56dd4e776a6c&",
     "createdAt": "2026-05-30 21:53:13.212 +00:00",
     "updatedAt": "2026-05-30 21:53:13.212 +00:00"
+  },
+  {
+    "id": 204,
+    "name": "Pirate Den Stamp",
+    "title": "Pirate",
+    "description": "Awarded for clearing Ghoul Pirate Den + Ghoul Sea Men Trench",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1540121085914124329/content.png?ex=6a88cd08&is=6a877b88&hm=6c5ad40f88682ed29dad3cab57218085ee9a5de9e6872298093310f7a4ac409c&",
+    "createdAt": "2026-08-20 22:11:21.381 +00:00",
+    "updatedAt": "2026-08-20 22:11:21.381 +00:00"
+  },
+  {
+    "id": 205,
+    "name": "The Open Fridge",
+    "title": "Forgetful",
+    "description": "Accidentally left the fridge open",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1540122863242059846/content.png?ex=6a88ceb0&is=6a877d30&hm=9c4bbfa019071a007fb092646721f91e2849d4e5edcb24612af8c9e4f01463ff&",
+    "createdAt": "2026-08-20 22:18:25.367 +00:00",
+    "updatedAt": "2026-08-20 22:18:25.367 +00:00"
+  },
+  {
+    "id": 206,
+    "name": "Leftover Onion",
+    "title": "Leftovers",
+    "description": "The leftover onion in the Ghoul Embassy fridge",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1540123809988743178/content.png?ex=6a88cf92&is=6a877e12&hm=c20caa8cb4152566da151d92d2d54aa19708d829917da7718d1814e55d7c15ea&",
+    "createdAt": "2026-08-20 22:22:10.879 +00:00",
+    "updatedAt": "2026-08-20 22:22:10.879 +00:00"
+  },
+  {
+    "id": 207,
+    "name": "Moldy Onion",
+    "title": "Moldy",
+    "description": "Moldy Onion picked up at the Moldy Ceruleum Plant",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1540126433504927837/content.png?ex=6a88d203&is=6a878083&hm=b42cd210c0c3c1abca2f393016026253f80f353034cdfdf47d150eb52f3f43b0&",
+    "createdAt": "2026-08-20 22:32:36.430 +00:00",
+    "updatedAt": "2026-08-20 22:32:36.430 +00:00"
+  },
+  {
+    "id": 208,
+    "name": "Forgiven Leftovers",
+    "title": "Forgiven Leftovers",
+    "description": "Awarded for completing the leftover onion saga.",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1540129265033674772/content.png?ex=6a88d4a7&is=6a878327&hm=7824ed57e4b6dc92a18914ea9f49cd2a08f3bb107e17c84c007a4c8c16d97a0d&",
+    "createdAt": "2026-08-20 22:43:51.421 +00:00",
+    "updatedAt": "2026-08-20 22:43:51.421 +00:00"
+  },
+  {
+    "id": 209,
+    "name": "Salmon Pink",
+    "title": "Don't Ask",
+    "description": "You answered the salmon's question",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1540131029820641360/content.png?ex=6a88d64b&is=6a8784cb&hm=af3beb5349a3a5e607db46dbd08c643b0625a25391c3a9026020eccf98dcf97d&",
+    "createdAt": "2026-08-20 22:50:52.389 +00:00",
+    "updatedAt": "2026-08-20 22:50:52.389 +00:00"
   }
 ]
