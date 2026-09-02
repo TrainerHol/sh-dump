@@ -1852,5 +1852,14 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1540131029820641360/content.png?ex=6a88d64b&is=6a8784cb&hm=af3beb5349a3a5e607db46dbd08c643b0625a25391c3a9026020eccf98dcf97d&",
     "createdAt": "2026-08-20 22:50:52.389 +00:00",
     "updatedAt": "2026-08-20 22:50:52.389 +00:00"
+  },
+  {
+    "id": 210,
+    "name": "Element Master",
+    "title": "Element Master",
+    "description": "You have found all of the elemental swords and have mastered them all!",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1544558878329540628/elemental_temple_badge-removebg-preview.png?ex=6a98f20d&is=6a97a08d&hm=5f0e9ae08f28036fedb1e4c2d895422eba8bd7e35a3ac35150fb21716d0f8de7&",
+    "createdAt": "2026-09-02 04:05:33.398 +00:00",
+    "updatedAt": "2026-09-02 04:05:33.398 +00:00"
   }
 ]
