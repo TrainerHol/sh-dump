@@ -1861,5 +1861,14 @@
     "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1544558878329540628/elemental_temple_badge-removebg-preview.png?ex=6a98f20d&is=6a97a08d&hm=5f0e9ae08f28036fedb1e4c2d895422eba8bd7e35a3ac35150fb21716d0f8de7&",
     "createdAt": "2026-09-02 04:05:33.398 +00:00",
     "updatedAt": "2026-09-02 04:05:33.398 +00:00"
+  },
+  {
+    "id": 211,
+    "name": "Path of Primals",
+    "title": "Elementalist",
+    "description": "A master of the primordial elements now, are you?",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1243737270599553096/1569452365478629477/fusion.png?ex=6af381ea&is=6af2306a&hm=11d2a0f4228906d83ba64d64879b8f3204c075c088cc4b41808a6350e64426be&",
+    "createdAt": "2026-11-09 20:43:23.920 +00:00",
+    "updatedAt": "2026-11-09 20:43:23.920 +00:00"
   }
 ]
